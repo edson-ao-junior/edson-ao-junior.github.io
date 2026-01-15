@@ -11,7 +11,7 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name: "Edson OliveiraJr"
+  name: "Edson OliveiraJr, Ph.D."
   avatar: "/assets/images/profile.jpeg"
   bio: "Associate Professor of Software Engineering"
   location: "Brazil"
