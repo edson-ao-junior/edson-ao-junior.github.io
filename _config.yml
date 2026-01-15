@@ -9,19 +9,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-author:
-  name: "Edson OliveiraJr, Ph.D."
-  avatar: "/assets/images/profile.jpeg"
-  bio: "Associate Professor of Software Engineering"
-  location: "Brazil"
-  employer: "State University of Maringá (UEM)"
-  email: "oliveirajr.edson@gmail.com"
-
-social:
-  googlescholar: "https://scholar.google.com/citations?user=71vteVgAAAAJ" 
-  orcid: "0000-0002-4760-1626"
-  github: edson-ao-junior
-  dblp: "https://dblp.org/pid/04/2051.html"
-
+  
 markdown: kramdown
