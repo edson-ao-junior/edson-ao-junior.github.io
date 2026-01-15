@@ -13,3 +13,8 @@ plugins:
 markdown: kramdown
 
 author: "Edson OliveiraJr"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
