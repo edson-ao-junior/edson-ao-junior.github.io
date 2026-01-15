@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+author: "Edson OliveiraJr"
 ---
 
 I am **Edson OliveiraJr**, an Associate Professor of Software Engineering at the **State University of Maringá, Paraná, Brazil**.
