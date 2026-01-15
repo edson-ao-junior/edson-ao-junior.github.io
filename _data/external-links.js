@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const links = document.querySelectorAll(
-    '.author__urls a[href^="http"], a.external'
+    '.author__urls a[href^="http"]'
   );
 
   links.forEach(link => {
