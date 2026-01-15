@@ -11,3 +11,5 @@ plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
+
+author: "Edson OliveiraJr"
