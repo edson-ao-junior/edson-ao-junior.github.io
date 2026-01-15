@@ -1,0 +1,26 @@
+title: "Edson OliveiraJr"
+description: "Associate Professor | Empirical Software Engineering, Open Science, Digital Forensics"
+url: "https://edson-ao-junior.github.io"
+baseurl: ""
+
+remote_theme: "academicpages/academicpages.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+author:
+  name: "Edson OliveiraJr"
+  bio: "Associate Professor of Software Engineering focusing on empirical methods, reproducibility, and open research infrastructure."
+  location: "Brazil"
+  email: "oliveirajr.edson@gmail.com"
+
+social:
+  github: edson-ao-junior
+  linkedin: edson-oliveirajr
+  orcid: "0000-0002-9110-039X"
+  googlescholar: "https://scholar.google.com/citations?user=XXXX"
+  dblp: "https://dblp.org/pid/XXXX"
+
+markdown: kramdown
