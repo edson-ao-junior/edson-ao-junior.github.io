@@ -1,4 +1,4 @@
-title: "Edson OliveiraJr"
+title: "Edson OliveiraJr, Ph.D."
 description: "Associate Professor of Software Engineering"
 url: "https://edson-ao-junior.github.io"
 baseurl: ""
@@ -9,5 +9,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  
+
 markdown: kramdown
