@@ -5,6 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-I am **Edson OliveiraJr**, Associate Professor of Software Engineering at the State University of Maringá (Brazil).
+**Edson OliveiraJr** is an Associate Professor of Software Engineering at the State University of Maringá (Brazil).
 
-My research agenda aims to strengthen rigor, transparency, and reproducibility in Software Engineering and Digital Forensics research through empirical methods and open science practices.
+He holds a Ph.D. in Computer Science from the University of São Paulo (USP) and works on empirical methods, reproducibility, and open science in Software Engineering and Digital Forensics.

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 ---
 
-[Download CV]( /assets/files/cv.pdf )
+[Download CV (PDF)](/assets/files/cv.pdf)

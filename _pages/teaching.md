@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching & Supervision"
+title: "Teaching"
 permalink: /teaching/
 ---
 

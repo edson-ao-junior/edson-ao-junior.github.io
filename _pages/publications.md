@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-My publications appear in leading international venues in Software Engineering and Digital Forensics.
+A complete list of publications is available via:
 
-- Google Scholar
+- Google Scholar  
 - DBLP

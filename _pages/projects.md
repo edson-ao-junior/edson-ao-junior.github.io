@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 ---
 
-Research projects on empirical software engineering, conceptual modeling, and open science.
+Research projects on empirical software engineering, controlled experimentation, and open science.

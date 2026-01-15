@@ -1,5 +1,5 @@
 title: "Edson OliveiraJr"
-description: "Associate Professor | Empirical Software Engineering, Open Science, Digital Forensics"
+description: "Associate Professor of Software Engineering"
 url: "https://edson-ao-junior.github.io"
 baseurl: ""
 
@@ -12,15 +12,16 @@ plugins:
 
 author:
   name: "Edson OliveiraJr"
-  bio: "Associate Professor of Software Engineering focusing on empirical methods, reproducibility, and open research infrastructure."
+  avatar: "/assets/images/profile.jpg"
+  bio: "Associate Professor of Software Engineering"
   location: "Brazil"
+  employer: "State University of Maringá (UEM)"
   email: "oliveirajr.edson@gmail.com"
 
 social:
-  github: edson-ao-junior
-  linkedin: edson-oliveirajr
-  orcid: "0000-0002-9110-039X"
   googlescholar: "https://scholar.google.com/citations?user=XXXX"
+  orcid: "0000-0002-9110-039X"
+  github: edson-ao-junior
   dblp: "https://dblp.org/pid/XXXX"
 
 markdown: kramdown
