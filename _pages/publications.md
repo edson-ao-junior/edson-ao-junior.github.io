@@ -2,9 +2,7 @@
 layout: single
 title: "Publications"
 permalink: /publications/
+author: "Edson OliveiraJr"
 ---
 
-A complete list of publications is available via:
-
-- Google Scholar  
-- DBLP
+{% include publications.html %}
