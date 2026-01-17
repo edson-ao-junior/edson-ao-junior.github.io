@@ -2,23 +2,20 @@
    Publications – Global structure
    =============================== */
 
-/* Wrapper: limits all styling to Publications page */
 .publications-page {
   font-size: 0.9rem;
 }
 
 /* ===============================
-   Headings
+   Publications – Headings
    =============================== */
 
-/* Year */
 .publications-page h1 {
   font-size: 1.6rem;
   margin-top: 1.8rem;
   margin-bottom: 0.4rem;
 }
 
-/* Section titles */
 .publications-page h2 {
   font-size: 1.1rem;
   margin-top: 0.8rem;
@@ -27,7 +24,7 @@
 }
 
 /* ===============================
-   Publication lists
+   Publications – Lists
    =============================== */
 
 .publication-list {
@@ -36,42 +33,37 @@
   margin-left: 0;
 }
 
-/* Default publication item */
 .publications-page .publication-list li {
   margin-bottom: 0.6em;
   line-height: 1.4;
 }
 
 /* ===============================
-   Journal highlighting (SUBTLE)
+   Publications – Journal highlighting
    =============================== */
 
-/* Journals: slightly stronger visual weight */
 .publications-page .journal-list li,
 .publications-page .publication-list.journal li {
   font-weight: 500;
 }
 
-/* Title emphasis for journals only */
 .publications-page .journal-list li strong,
 .publications-page .publication-list.journal li strong {
   font-weight: 600;
 }
 
-/* Optional left accent bar (very subtle) */
 .publications-page .journal-list li {
   border-left: 3px solid rgba(0, 0, 0, 0.08);
   padding-left: 0.6em;
 }
 
-/* Conferences remain neutral */
 .publications-page .conference-list li {
   font-weight: 400;
   border-left: none;
 }
 
 /* ===============================
-   DOI styling
+   Publications – DOI
    =============================== */
 
 .doi-icon {
@@ -93,7 +85,7 @@
 }
 
 /* ===============================
-   Language badge
+   Publications – Language badge
    =============================== */
 
 .publications-page span[title="Publication in Portuguese"] {
@@ -102,7 +94,7 @@
 }
 
 /* ===============================
-   Responsive fine-tuning
+   Publications – Responsive
    =============================== */
 
 @media (max-width: 768px) {
@@ -137,18 +129,13 @@
   opacity: 0.9;
 }
 
-
-/* ===============================
-   Service – Global structure
-   =============================== */
+/* ============================================================
+   Service – Global structure (academicpages-compatible)
+   ============================================================ */
 
 .service-page {
   font-size: 0.9rem;
 }
-
-/* ===============================
-   Headings
-   =============================== */
 
 .service-page h1 {
   font-size: 1.6rem;
@@ -162,10 +149,6 @@
   margin-bottom: 0.3rem;
   font-weight: 600;
 }
-
-/* ===============================
-   Service lists
-   =============================== */
 
 .service-list {
   list-style: none;
@@ -182,10 +165,7 @@
   font-style: italic;
 }
 
-/* ===============================
-   Responsive fine-tuning
-   =============================== */
-
+/* Service – Responsive */
 @media (max-width: 768px) {
   .service-page {
     font-size: 0.93rem;
@@ -200,64 +180,74 @@
   }
 }
 
-
-
-/* ===============================
-   Books
-   =============================== */
+/* ============================================================
+   Books – FINAL, HARD FIX for academicpages
+   ============================================================ */
 
 .books-page {
   font-size: 0.95rem;
 }
 
-.book-entry {
+/* Entry layout */
+.books-page .book-entry {
   display: flex;
+  align-items: flex-start;
   gap: 1.2rem;
   margin-bottom: 2rem;
 }
 
-.book-cover img {
-  width: 95px;
-  max-width: 95px;
-  height: auto;
+/* HARD FIX: cover NEVER grows */
+.books-page .book-cover {
+  flex: 0 0 auto;
+}
+
+.books-page .book-cover img {
+  width: 80px !important;
+  max-width: 80px !important;
+  min-width: 80px !important;
+  height: auto !important;
   display: block;
+  margin: 0;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 
-.book-meta h2 {
+/* Meta */
+.books-page .book-meta h2 {
   font-size: 1.25rem;
   margin-top: 0;
   margin-bottom: 0.2rem;
 }
 
-.book-subtitle {
+.books-page .book-subtitle {
   font-size: 0.95rem;
   font-style: italic;
   margin-bottom: 0.4rem;
 }
 
-.book-authors {
+.books-page .book-authors {
   font-size: 0.9rem;
   margin-bottom: 0.6rem;
 }
 
-.book-abstract {
+.books-page .book-abstract {
   font-size: 0.9rem;
   line-height: 1.45;
 }
 
-.book-doi {
+.books-page .book-doi {
   font-size: 0.85rem;
   margin-top: 0.4rem;
 }
 
-/* Responsive */
+/* Books – Responsive */
 @media (max-width: 768px) {
-  .book-entry {
+  .books-page .book-entry {
     flex-direction: column;
   }
 
-  .book-cover img {
-    width: 160px;
+  .books-page .book-cover img {
+    width: 110px !important;
+    max-width: 110px !important;
+    min-width: 110px !important;
   }
 }
