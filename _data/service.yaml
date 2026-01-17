@@ -11,7 +11,7 @@ journals:
 
   - role: "Editorial Board Member"
     venue: "Journal of Software Engineering Research and Development"
-    start: 2021
+    start: 2024
     end: "present"
 
   - role: "Reviewer"
@@ -24,27 +24,27 @@ journals:
 
   - role: "Reviewer"
     venue: "IET Software"
-    years: [2025, 2024, 2023]
+    years: [2024, 2023]
 
   - role: "Reviewer"
     venue: "Journal of Universal Computer Science"
-    years: [2025, 2024, 2023]
+    years: [2025, 2024, 2023, 2021, 2020, 2018]
 
   - role: "Reviewer"
     venue: "ACM Computing Surveys"
-    years: [2025, 2024]
+    years: [2025, 2024, 2022]
 
   - role: "Reviewer"
     venue: "Journal of Systems and Software"
-    years: [2025, 2024, 2023]
+    years: [2025, 2024, 2023, 2021, 2019]
 
   - role: "Reviewer"
     venue: "Information and Software Technology"
-    years: [2025, 2024, 2023]
+    years: [2025, 2024, 2023, 2022, 2021, 2020]
 
   - role: "Reviewer"
     venue: "Empirical Software Engineering"
-    years: [2025, 2024, 2023]
+    years: [2025, 2024, 2023, 2021]
 
   - role: "Reviewer"
     venue: "ACM Transactions on Computing Education"
@@ -56,23 +56,23 @@ journals:
 
   - role: "Reviewer"
     venue: "Forensic Science Review"
-    years: [2025, 2024]
+    years: [2025, 2024, 2023]
 
   - role: "Reviewer"
     venue: "Science & Justice"
-    years: [2025, 2024]
+    years: [2025]
 
   - role: "Reviewer"
     venue: "Accreditation and Quality Assurance"
-    years: [2025, 2024]
+    years: [2025]
 
   - role: "Reviewer"
     venue: "Journal of Computer Languages"
-    years: [2025, 2024]
+    years: [2025]
 
   - role: "Reviewer"
     venue: "CMC – Computers, Materials & Continua"
-    years: [2025, 2024]
+    years: [2025]
 
 conferences:
   chair:
@@ -81,7 +81,7 @@ conferences:
       years: [2024]
 
     - role: "PC Co-Chair"
-      venue: "Brazilian Computer Society Open Science Seminar (BCS-OSS)"
+      venue: "Brazilian Computer Society Open Science Seminar"
       years: [2024, 2023]
 
     - role: "Open Science Chair"
@@ -156,11 +156,7 @@ conferences:
     - role: "TPC Member"
       venue: "IEEE Frontiers in Education Conference (FIE)"
       years: [2025, 2024, 2020, 2019, 2018, 2017, 2016, 2015]
-
-    - role: "TPC Member"
-      venue: "International Workshop on Software Language Engineering and Interoperability for Smart Systems (SLISW)"
-      years: [2018, 2017, 2016, 2015, 2014, 2013]
-
+    
   national:
     - role: "TPC Member"
       venue: "Brazilian Symposium on Information Systems (SBSI)"
