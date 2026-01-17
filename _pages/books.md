@@ -78,7 +78,7 @@ classes: books-page
 
     {% if ch.abstract %}
       <div class="chapter-abstract">
-        {{ ch.abstract }}
+        <strong>Abstract:</strong> {{ ch.abstract }}
       </div>
     {% endif %}
 
