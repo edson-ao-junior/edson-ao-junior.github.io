@@ -62,9 +62,9 @@ classes: books-page
     </div>
 
     <div class="chapter-meta">
-      {{ ch.authors }}.<br>
+      {{ ch.authors }}<br>
       In <em>{{ ch.book_title }}</em>.
-      {{ ch.publisher }}, {{ ch.year }}.
+      {{ ch.publisher }}, {{ ch.year }}
     </div>
 
     {% if ch.doi %}
