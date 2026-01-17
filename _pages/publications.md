@@ -6,4 +6,6 @@ author: "Edson OliveiraJr"
 author_profile: true
 ---
 
-Publications page is working.
+Below is a curated list of my peer-reviewed publications in Software Engineering and Digital Forensics.
+
+{% include publications.html %}

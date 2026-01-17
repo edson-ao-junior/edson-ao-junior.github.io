@@ -1,0 +1,20 @@
+.publication-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.publication-list li {
+  margin-bottom: 0.8em;
+}
+
+.pub-authors {
+  font-size: 0.95em;
+}
+
+.pub-title {
+  font-weight: 600;
+}
+
+.pub-venue {
+  font-style: italic;
+}
