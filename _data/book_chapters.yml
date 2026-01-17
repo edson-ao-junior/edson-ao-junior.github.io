@@ -1,0 +1,24 @@
+- title: "Provenance in Open Science"
+  authors: "Edson Oliveira Jr., Ana H. Mazur"
+  book_title: "Open Science Made Practical: From Principles to Hands-on"
+  publisher: "Springer"
+  year: 2025
+  doi: "10.1007/978-3-031-YYYYY-Y_3"
+  abstract: >
+    This chapter discusses the role of provenance in Open Science,
+    focusing on transparency, traceability, and reproducibility.
+    It presents conceptual and practical perspectives aligned with
+    the UNESCO Recommendation on Open Science.
+
+- title: "Conceptual Modeling for Digital Forensics Experimentation"
+  authors: "Edson Oliveira Jr., Thiago J. Silva"
+  book_title: "Controlled Experimentation of Digital Forensics:
+    Towards Formalization for Strengthening Evidence Reproducibility,
+    Reliability, and Transparency"
+  publisher: "Springer"
+  year: 2026
+  doi: "10.1007/978-3-031-XXXXX-X_5"
+  abstract: >
+    This chapter introduces a conceptual modeling approach for
+    structuring controlled experiments in Digital Forensics,
+    supporting rigor, reproducibility, and evidence validation.

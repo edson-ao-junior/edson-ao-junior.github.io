@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Books"
+title: "Books and Chapters"
 permalink: /books/
 author: "Edson OliveiraJr"
 author_profile: true
@@ -47,3 +47,29 @@ author_profile: true
 </div>
 
 {% endfor %}
+
+<hr>
+
+## Book Chapters
+
+<ul class="chapter-list">
+{% for ch in site.data.book_chapters %}
+  <li>
+    <strong>{{ ch.title }}</strong><br>
+    {{ ch.authors }}.<br>
+    In <em>{{ ch.book_title }}</em>.
+    {{ ch.publisher }}, {{ ch.year }}.
+    {% if ch.doi %}
+      DOI:
+      <a href="https://doi.org/{{ ch.doi }}" target="_blank" rel="noopener">
+        {{ ch.doi }}
+      </a>
+    {% endif %}
+    {% if ch.abstract %}
+      <div class="chapter-abstract">
+        {{ ch.abstract }}
+      </div>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
