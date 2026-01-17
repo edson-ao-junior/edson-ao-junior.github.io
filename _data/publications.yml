@@ -1,700 +1,377 @@
-- authors: Silva, T. J.; Mazur, A. H.; OliveiraJr, E.; Zorzo, A. F.; Barcelos, M
+- authors: OliveiraJr, Edson; Zorzo, Avelino F.
+  title: Review and agenda of Digital Forensics education and training
+  venue: Forensic Science International
+  year: 2026
+  doi: 10.1016/j.forsciint.2025.112655
+  type: journal
+  language: en
+- authors: OliveiraJr, Edson; Canedo, E. D.; Brito, I. S.
+  title: 'Understanding Education and Professional Practice of UML: Insights from
+    Brazil and Portugal'
+  venue: ACM Transactions on Computing Education
+  year: 2026
+  doi: ''
+  type: journal
+  language: en
+- authors: OliveiraJr, Edson; Lolli, L. F.; Avila, G. N.; Mossini, S. A. G.
+  title: 'Forensic sciences workforce education and training: the technical residency
+    in southern Brazil'
+  venue: Forensic Sciences Research
+  year: 2026
+  doi: ''
+  type: journal
+  language: en
+- authors: Ferreira, V. E.; Cesaro, J. P. V.; Rosa, G.; OliveiraJr, E.; Leal, G. C.
+    L.; Balancieri, R.
+  title: 'CrowdStrike Blackout: Impacts, Technical Root Causes, and Lessons Learned
+    from a Multivocal Analysis of a Critical Incident'
+  venue: Journal of Universal Computer Science
+  year: 2026
+  doi: ''
+  type: journal
+  language: en
+- authors: Bett, A. B. M.; Nepomuceno, T. S.; OliveiraJr, Edson; Baldassare, M. T.;
+    Graciano Neto, V. V.; Kalinowski, M.
+  title: Towards an OSF-based Registered Report Template for Software Engineering
+    Controlled Experiments
+  venue: International Workshop on Methodological Issues with Empirical Studies in
+    Software Engineering (WSESE@ICSE)
+  year: 2026
+  doi: ''
+  type: conference
+  language: en
+- authors: Menolli, A.; Coleti, T. A.; OliveiraJr, E.
+  title: 'Impact and Insights of MBE Adoption in Knowledge Capture and Organization:
+    A Survey of Brazilian Software Companies'
+  venue: Journal of Software Engineering Research and Development
+  year: 2025
+  doi: 10.5753/jserd.2025.5757
+  type: journal
+  language: en
+- authors: Silva, T. J.; Mazur, A. H.; OliveiraJr, E.; Zorzo, A. F.; Barcelos, M.
   title: An ontology for promoting controlled experimentation in digital forensics
   venue: Forensic Science International - Digital Investigation
   year: 2025
-  doi: https://dx.doi.org/10.1016/j.fsidi.2024.301845
-  type: conference
+  doi: 10.1016/j.fsidi.2024.301845
+  type: journal
   language: en
-- authors: Silva, T. J.; OliveiraJr, E.; Zorzo, A. F.; Pereira, M. E
+- authors: Silva, T. J.; OliveiraJr, E.; Zorzo, A. F.; Pereira, M. E.
   title: 'A review study of digital forensics in IoT: Process models, phases, architectures,
     and ontologies'
   venue: Forensic Science International - Digital Investigation
   year: 2025
-  doi: https://dx.doi.org/10.1016/j.fsidi.2025.301912
-  type: conference
+  doi: 10.1016/j.fsidi.2025.301912
+  type: journal
   language: en
-- authors: Cordeiro, A. F. R; OliveiraJr, E
+- authors: Cordeiro, A. F. R.; OliveiraJr, E.
   title: 'Reproducibility Practices of Software Engineering Controlled Experiments:
     Survey and Prospective Actions'
   venue: International Conference on Enterprise Information Systems
   year: 2025
-  doi: ''
+  doi: 10.5220/0013475600003929
   type: conference
   language: en
-- authors: Cordeiro, A. F. R; OliveiraJr, E
+- authors: Cordeiro, A. F. R.; OliveiraJr, E.
   title: Reviewing Reproducibility in Software Engineering Research
   venue: International Conference on Enterprise Information Systems
   year: 2025
-  doi: ''
+  doi: 10.5220/0013456000003929
   type: conference
   language: en
-- authors: Silva, T. J.; OliveiraJr, E.; Zorzo, A. F
+- authors: Silva, T. J.; OliveiraJr, E.; Zorzo, A. F.
   title: Review and Recommendations on How Ontologies Have Supported Digital Forensics
   venue: Forensic Science Review
   year: 2024
   doi: ''
-  type: conference
+  type: journal
   language: en
-- authors: Poltronieri, I.; Zorzo, A.; Silveria, M. B.; OliveiraJr, E
+- authors: Poltronieri, I.; Zorzo, A.; Silveira, M. B.; OliveiraJr, E.
   title: 'Usa-DSL: a Process for Usability Evaluation of Domain-Specific Languages'
   venue: Journal of Universal Computer Science
   year: 2024
-  doi: https://dx.doi.org/10.3897/jucs.103264
-  type: conference
+  doi: 10.3897/jucs.103264
+  type: journal
   language: en
-- authors: OliveiraJr, E.; Madeiral, F.; Santos, A. R.; Chavez, C. V. F. G.; Soares,
-    S
-  title: On the Open Science-based Evolution of Software Engineering Research and
-    Practice
-  venue: Foundations of Software Engineering (FSE)
+- authors: OliveiraJr, E.; Madeiral, F.; Santos, A. R.; von Flach, C.; Soares, S.
+  title: A Vision on Open Science for the Evolution of Software Engineering Research
+    and Practice
+  venue: ACM International Conference on the Foundations of Software Engineering (FSE)
+    - Ideas, Visions and Reflections Track
   year: 2024
-  doi: https://dx.doi.org/10.1145/3663529.3663788
+  doi: 10.1145/3663529.3663788
   type: conference
   language: en
-- authors: Luz, C. D.; Moreira, E. I.; Tenório, N.; OliveiraJr, E.; Barbosa, E. F
-  title: 'Teaching and Learning of Introduction to Software Engineering Experimentation
-    to Distance-Learning Students: a Quasi-Experiment'
-  venue: IEEE Frontiers in Education (FIE)
-  year: 2024
-  doi: ''
-  type: conference
-  language: en
-- authors: Deconto, G. D.; Zorzo, A.; Dalalana, D. B.; OliveiraJr, E.; Lunardi, R.
-    C
-  title: Machine Learning for Forensic Occupancy Detection in IoT Environments
-  venue: World Conference on Information Systems and Technologies (WorldCist)
-  year: 2024
-  doi: 10.1007/978-3-031-60215-3_11
-  type: conference
-  language: en
-- authors: Alexandre, M.; OliveiraJr, E.; Carvalho; P., A.; Colanzi, C.; Balancieri,
-    R
-  title: 'Key Performance Indicators in Brazilian Software Development Companies:
-    a Survey'
-  venue: Brazilian Symposium on Software Quality (SBQS)
-  year: 2024
-  doi: ''
-  type: conference
-  language: en
-- authors: Santana, C. H.; Camiletti, A. P.; Rand, D. R.; Nascimento, E. S.; OliveiraJr,
-    E.; Amaral, A. M. M. M
-  title: 'Scratch no Desenvolvimento do Pensamento Computacional: um Quasi-Experimento
-    com Alunos 9º ano'
-  venue: Workshop sobre Educação em Computação (WEI)
-  year: 2024
-  doi: https://dx.doi.org/10.5753/wei.2024.2121
-  type: conference
-  language: en
-- authors: Silva, C. A. E.; Leal, G. C. L.; Balancieri, R.; OliveiraJr, E
-  title: O Ensino de Startups de Software em Cursos da Área de Computação
-  venue: Tecnologias, Sociedade e Conhecimento
-  year: 2024
-  doi: 10.20396/tsc.v10i2.17947
-  type: conference
-  language: en
-- authors: Allian, Ana P.; Silva, L. F.; OliveiraJr, E.; Nakagawa, E. Y
+- authors: Allian, Ana P.; Silva, L. F.; OliveiraJr, E.; Nakagawa, E. Y.
   title: 'VMTools-RA: a Reference Architecture for Software Variability Tools'
   venue: Journal of Universal Computer Science
   year: 2023
-  doi: https://dx.doi.org/10.3897/jucs.97113
-  type: conference
+  doi: 10.3897/jucs.97113
+  type: journal
   language: en
-- authors: Bettin, G.; Herculani, J.; Melo, A.; Andrade, L. C. M.; OliveiraJr, E
-  title: 'Efficacy, Efficiency and Effectiveness of SMarty-based Software Product
-    Line Inspection Techniques: a Controlled Quasi-Experiment'
-  venue: International Working Conference on Variability Modelling of Software-Intensive
-    Systems (VaMoS)
-  year: 2023
-  doi: https://dx.doi.org/10.1145/3571788.3571792
-  type: conference
-  language: en
-- authors: Cordeiro, A. F. R.; OliveiraJr, E.; Costa, Y. M. G
-  title: Date Fruit classification using a wide range of classifiers
-  venue: International Conference on Systems, Signals and Image Processing (IWSSIP)
-  year: 2023
-  doi: https://dx.doi.org/10.1109/iwssip58668.2023.10180302
-  type: conference
-  language: en
-- authors: Luz, C.; OliveiraJr, E.; Steinmacher, I
-  title: A Conceptual Model to Support Teaching of Software Engineering Controlled
-    (Quasi-)Experiments
-  venue: Brazilian Symposium on Software Engineering (SBES)
-  year: 2023
-  doi: https://dx.doi.org/10.1145/3613372.3614202
-  type: conference
-  language: en
-- authors: Santana, F. A.; Cordeiro, A. F. R.; OliveiraJr, E
-  title: Use of the Dublin Core Standard to Express Open Metadata Related to Software
-    Engineering Experiments
-  venue: Workshop on Open Science Practices in Software Engineering (OpenScienSE)
-  year: 2023
-  doi: https://dx.doi.org/10.5753/opensciense.2023.235672
-  type: conference
-  language: en
-- authors: Santos, A.; Kuspil, J.; Rando, D.; Santos, D.; Leal, G. C.; Balancieri,
-    R.; OliveiraJr, E
-  title: 'Technical Debt in Brazilian Software Startups: Perceptions of Professionals
-    in Paraná'
-  venue: Brazilian Symposium on Software Quality (SBQS)
-  year: 2023
-  doi: https://dx.doi.org/10.1145/3629479.3629482
-  type: conference
-  language: en
-- authors: Santana, F. A.; Cordeiro, A. F. R.; OliveiraJr, E
-  title: 'Dublin Core for Recording Metadata of Experiments in Software Engineering:
-    A Survey'
-  venue: Regional School on Software Engineering (ERES)
-  year: 2023
-  doi: https://dx.doi.org/10.5753/eres.2023.237790
-  type: conference
-  language: en
-- authors: Santana, F. A.; Cordeiro, A. F. R.; OliveiraJr, E
-  title: 'Metadata Standards: a Review Towards Modeling Experiments'
-  venue: Regional School on Software Engineering (ERES)
-  year: 2023
-  doi: https://dx.doi.org/10.5753/eres.2023.237789
-  type: conference
-  language: en
-- authors: Ferrari, G. N.; Nepomuceno, T.; Santana, C. H.; Luz, C. D.; Leal, G. C.
-    L.; Amaral, A. M. M. M.; Balancieri, R
+- authors: Ferrari, G. N.; Nepomuceno, Thais; Santana, C. H.; Luz, C. D.; Leal, G.
+    C. L.; Amaral, Aline M. M. M.; Balancieri, R.; OliveiraJr, E.
   title: 'Advanced Undergraduate Computing Students'' Perception of Software Quality
     Teaching: a Survey in the Brazilian Paraná State'
-  venue: Ibero-American Conference on Software Engineering (CIbSE)
+  venue: Proceedings of the Ibero-American Conference on Software Engineering
   year: 2023
-  doi: https://dx.doi.org/10.5753/cibse.2023.24700.
+  doi: ''
   type: conference
   language: en
-- authors: Pereira, M. A.; Tenório, N.; OliveiraJr, E
-  title: Projeto e Desenvolvimento de um Software de Apoio à Revisão Aberta por Pares
-  venue: Escola Regional de Engenharia de Software (ERES)
+- authors: Bettin, G.; Herculani, J. B.; Melo, A.; Andrade, L. C.; OliveiraJr, E.
+  title: 'Efficacy, Efficiency and Effectiveness of SMarty-based Software Product
+    Line Inspection Techniques: a Controlled Quasi-Experiment'
+  venue: Proceedings of the 17th International Working Conference on Variability Modelling
+    of Software-Intensive Systems
   year: 2023
-  doi: https://dx.doi.org/10.5753/eres.2023.237792
+  doi: 10.1145/3571788.3571792
   type: conference
   language: en
-- authors: Chagas, P. C.; Luz, C. D.; OliveiraJr, E
-  title: Adoção de Domain-Driven Design para o Domínio de Pagamentos
-  venue: Escola Regional de Engenharia de Software (ERES)
-  year: 2023
-  doi: https://dx.doi.org/10.5753/eres.2023.237791
-  type: conference
+- authors: FalvoJr, V.; Marcolino, A. S.; Duarte Filho, Nem{\'e}sio; OliveiraJr, E.;
+    Barbosa, E. F.
+  title: Development and Evaluation of a Software Product Line for M-Learning Applications
+  venue: Journal of Universal Computer Science
+  year: 2022
+  doi: 10.3897/jucs.90663
+  type: journal
   language: en
-- authors: Garcia, L. A.; Morandini, M.; OliveiraJr, E
-  title: Uma Proposta para Automatização de Avaliação de Usabilidade/UX
-  venue: Escola Regional de Engenharia de Software (ERES)
-  year: 2023
-  doi: https://dx.doi.org/10.5753/eres.2023.237799
-  type: conference
+- authors: Garcia, L. A.; OliveiraJr, E.; Morandini, M.; Urbanowski, S.
+  title: 'Tailoring the Scrum Framework for Software Development: Literature Mapping
+    and Feature-based Support'
+  venue: Information and Software Technology
+  year: 2022
+  doi: 10.1016/j.infsof.2021.106814
+  type: journal
   language: en
-- authors: Guelman, I.; OliveiraJr, E.; Xavier, L
-  title: Ensino, Aprendizagem e Uso Profissional da UML em Belo Horizonte e Região
-  venue: Simpósio Brasileiro de Educação em Computação (Educomp)
-  year: 2023
-  doi: https://dx.doi.org/10.5753/educomp.2023.228173
-  type: conference
-  language: en
-- authors: OliveiraJr, E.; Silva, T. J.; Zorzo, A.; Neu, C. V
+- authors: OliveiraJr, E.; Silva, T. J.; Zorzo, A. F.; Neu, C. V.
   title: 'Digital Forensics Experimentation: Analysis and Recommendations'
   venue: Forensic Science Review
   year: 2022
   doi: ''
-  type: conference
+  type: journal
   language: en
-- authors: Garcia, L. A.; OliveiraJr, E.; Morandini, M
-  title: 'Tailoring the Scrum framework for software development: Literature mapping
-    and feature-based support'
-  venue: Information and Software Technology
-  year: 2022
-  doi: https://dx.doi.org/10.1016/j.infsof.2021.106814
-  type: conference
-  language: en
-- authors: Falvo, V.; Marcolino, A. S.; Duarte Filho, N. F.; OliveiraJr, E.; Barbosa,
-    E. F
-  title: Development and Evaluation of a Software Product Line for M-Learning Applications
-  venue: Journal of Universal Computer Society
-  year: 2022
-  doi: https://dx.doi.org/10.3897/jucs.90663
-  type: conference
-  language: en
-- authors: Luz, C. D.; OliveiraJr, E.; Steinmacher, I. F
-  title: How Experimentation in Software Engineering has been taught? Survey and Research
-    Agenda
-  venue: International Conference on Evaluation and Assessment in Software Engineering
-    (EASE)
-  year: 2022
-  doi: https://dx.doi.org/10.1145/3530019.3535306
-  type: conference
-  language: en
-- authors: Cordeiro, A. F. R.; OliveiraJr, E.; Capretz, L. F
-  title: Towards an Open Science-Based Framework for Software Engineering Controlled
-    (Quasi-)Experiments
-  venue: Brazilian eScience Workshop (BRESCI)
-  year: 2022
-  doi: https://dx.doi.org/10.5753/bresci.2022.222815
-  type: conference
-  language: en
-- authors: Silva, T. J.; OliveiraJr, E
-  title: 'An Ontology for Supporting Digital Forensics Controlled Experiments: Early
-    Stages of Development'
-  venue: Brazilian eScience Workshop (BRESCI)
-  year: 2022
-  doi: https://dx.doi.org/10.5753/bresci.2022.222813
-  type: conference
-  language: en
-- authors: OliveiraJr, E.; Cordeiro, A.; Nascimento, D
-  title: Surveying the Open Science Knowledge in a Southern Brazilian University
-  venue: International Symposium on Open Collaboration (OpenSym)
-  year: 2022
-  doi: https://dx.doi.org/10.1145/3555051.3555064
-  type: conference
-  language: en
-- authors: Felizardo, K.; Flach, C.; Pereira, R.; OliveiraJr, E
+- authors: Felizardo, K. R.; Chavez, C. V. F. G.; Pereira, Roberto; OliveiraJr, Edson
   title: Surveying the Audience Effect in Open Peer Review of a Software Engineering
     Workshop
-  venue: Brazilian Symposium on Software Engineering (SBES)
+  venue: Proceedings of the Brazilian Symposium on Software Engineering
   year: 2022
-  doi: https://dx.doi.org/10.1145/3555228.3555271
+  doi: 10.1145/3555228.3555271
   type: conference
   language: en
-- authors: Silva, L. F.; OliveiraJr, E.; Santos, R. P
-  title: A Field Study on Reference Architectural Decisions for Developing a UML-based
-    Software Product Line Tool
-  venue: Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)
+- authors: OliveiraJr, Edson; Cordeiro, A. F. R.; Nascimento, D.
+  title: Surveying the Open Science knowledge in a southern Brazilian university
+  venue: Proceedings of the International Symposium on Open Collaboration
   year: 2022
-  doi: https://dx.doi.org/10.1145/3559712.3559713
+  doi: 10.1145/3555051.3555064
   type: conference
   language: en
-- authors: Soares, M. H. A.; OliveiraJr, E.; Tenório, N
-  title: 'Engenharia de Requisitos em Empresas da Região Sul do Brasil: um Survey'
-  venue: Escola Regional de Engenharia de Software (ERES)
+- authors: Luz, C. D.; OliveiraJr, E.; Steinmacher, I.
+  title: How Experimentation in Software Engineering has been taught? Survey and Research
+    Agenda
+  venue: Proceedings of the International Conference on Evaluation and Assessment
+    in Software Engineering
   year: 2022
-  doi: https://dx.doi.org/10.5753/eres.2022.227975
+  doi: 10.1145/3530019.3535306
   type: conference
   language: en
-- authors: Bettin, G.; Herculani, J. B.; Shigenaga, M. Y.; Leal, G. C. L.; Balancieri,
-    R.; OliveiraJr, E.; Colanzi, T. E.; Amaral, A. M. M. M
-  title: 'O Ensino de Qualidade de Software nas IES Públicas do Paraná: um Estudo
-    Exploratório'
-  venue: Workshop sobre Educação em Computação (WEI)
+- authors: Cordeiro, A. F. R.; OliveiraJr, Edson; Capretz, L. F.
+  title: Towards an Open Science-Based Framework for Software Engineering Controlled
+    (Quasi-)Experiments
+  venue: Proceedings of the XVI Brazilian e-Science Workshop
   year: 2022
-  doi: https://dx.doi.org/10.5753/wei.2022.223008
+  doi: 10.5753/bresci.2022.222815
   type: conference
   language: en
-- authors: Morandini, M.; Coleti, T. A.; OliveiraJr, E.; Corrêa, P. L. P
+- authors: Silva, T. J.; OliveiraJr, E.
+  title: 'An Ontology for Supporting Digital Forensics Controlled Experiments: Early
+    Stages of Development'
+  venue: Proceedings of the XVI Brazilian e-Science Workshop
+  year: 2022
+  doi: 10.5753/bresci.2022.222813
+  type: conference
+  language: en
+- authors: Morandini, M.; Coleti, T. A.; OliveiraJr, E.; Corr{\^e}a, P. L. P.
   title: 'Considerations about the efficiency and sufficiency of the utilization of
     the Scrum methodology: A survey for analyzing results for development teams'
   venue: Computer Science Review
   year: 2021
-  doi: https://dx.doi.org/10.1016/j.cosrev.2020.100314
-  type: conference
+  doi: 10.1016/j.cosrev.2020.100314
+  type: journal
   language: en
-- authors: OliveiraJr, E.; Zorzo, A.; Neu, C. V
+- authors: OliveiraJr, E.; Zorzo, A.; Neu, C. V.
   title: 'Experimentation of digital multimedia forensics: State of the art and research
     gaps'
-  venue: WIREs. Forensic science
+  venue: WIREs Forensic Science
   year: 2021
   doi: 10.1002/wfs2.1405
-  type: conference
+  type: journal
   language: en
-- authors: Silva, L. F.; OliveiraJr, E
-  title: 'SMartyModeling: an Environment for Engineering UML-based Software Product
-    Lines'
-  venue: International Working Conference on Variability Modelling of Software-Intensive
-    Systems (VaMoS)
-  year: 2021
-  doi: https://dx.doi.org/10.1145/3442391.3442397
-  type: conference
-  language: en
-- authors: Choma Neto, J.; Bento, L. H. T. C.; OliveiraJr, E.; Souza, S. R. S
-  title: Are we teaching UML according to what IT companies need? A survey on the
-    São Carlos-SP region
-  venue: Simpósio Brasileiro de Educação em Computação (Educomp)
-  year: 2021
-  doi: https://dx.doi.org/10.5753/educomp.2021.14469
-  type: conference
-  language: en
-- authors: Nepomuceno, T.; OliveiraJr, E
-  title: 'Software Product Line Traceability and Product Configuration in Class and
-    Sequence Diagrams: an Empirical Study'
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2021
-  doi: https://dx.doi.org/10.5220/0010411001970204
-  type: conference
-  language: en
-- authors: Petry, K. L.; OliveiraJr, E.; Costa, L. T.; Zanin, A.; Zorzo, A
-  title: 'SMartyTesting: a Model-Based Testing Approach for Deriving Software Product
-    Line Test Sequences'
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2021
-  doi: https://dx.doi.org/10.5220/0010373601650172
-  type: conference
-  language: en
-- authors: Bettin, G.; OliveiraJr, E
-  title: 'SMartyPerspective: a perspective-based inspection technique for software
-    product lines'
-  venue: Brazilian Symposium on Software Engineering (SBES)
-  year: 2021
-  doi: https://dx.doi.org/10.1145/3474624.3474626
-  type: conference
-  language: en
-- authors: OliveiraJr, E.; Furtado, V.; Vignando, H.; Luz, C.; Cordeiro, A.; Steinmacher,
-    I.; Zorzo, A
-  title: Towards Improving Experimentation in Software Engineering
-  venue: Brazilian Symposium on Software Engineering (SBES)
-  year: 2021
-  doi: https://dx.doi.org/10.1145/3474624.3477073
-  type: conference
-  language: en
-- authors: OliveiraJr, E.; Flach, C.; Cordeiro, A. F. R.; Feitosa, D
+- authors: OliveiraJr, E.; Chavez, C. V. F. G.; Cordeiro, A.; Feitosa, D.
   title: How do Brazilian Software Engineering Researchers Perceive and Practice Open
     Science?
-  venue: Workshop on Open Science Practices for Software Engineering (OpenScienSE)
+  venue: Proceedings of the I Workshop on Open Science Practices for Software Engineering
   year: 2021
-  doi: https://dx.doi.org/10.5753/opensciense.2021.17142
+  doi: 10.5753/opensciense.2021.17142
   type: conference
   language: en
-- authors: Cordeiro, A. F. R.; OliveiraJr, E
+- authors: Cordeiro, A. F. R.; OliveiraJr, E.
   title: Open Science Practices for Software Engineering Controlled Experiments and
     Quasi-Experiments
-  venue: Workshop on Open Science Practices for Software Engineering (OpenScienSE)
+  venue: Proceedings of the I Workshop on Open Science Practices for Software Engineering
   year: 2021
-  doi: https://dx.doi.org/10.5753/opensciense.2021.17140
+  doi: 10.5753/opensciense.2021.17140
   type: conference
   language: en
-- authors: Furtado, V.; OliveiraJr, E.; Kalinowski, M
+- authors: Furtado, V.; OliveiraJr, E.; Kalinowski, M.
   title: Guidelines for Promoting Software Product Line Experiments
-  venue: Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)
+  venue: Proceedings of the Brazilian Symposium on Software Components, Architectures,
+    and Reuse
   year: 2021
-  doi: https://dx.doi.org/10.1145/3483899.3483909
+  doi: 10.1145/3483899.3483909
   type: conference
   language: en
-- authors: Freire, W.; Tonhão, S.; Bonetti, T.; Shigenaga, M.; Cadette, W.; Felizardo,
-    F.; Amaral, A.; OliveiraJr, E.; Colanzi, T
+- authors: Freire, W. et al.
   title: On the configuration of multi-objective evolutionary algorithms for PLA design
     optimization
-  venue: Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)
+  venue: Proceedings of the Brazilian Symposium on Software Components, Architectures,
+    and Reuse
   year: 2021
-  doi: https://dx.doi.org/10.1145/3483899.3483905
+  doi: 10.1145/3483899.3483905
   type: conference
   language: en
-- authors: Silva, L. F.; OliveiraJr, E
+- authors: Silva, L. F.; OliveiraJr, E.
   title: 'SMartyModeling: an instance of VMTools-RA for Engineering UML-based Software
     Product Lines'
-  venue: Brazilian Symposium on Software Quality (SBQS)
+  venue: Proceedings of the Brazilian Symposium on Software Quality
   year: 2021
-  doi: https://dx.doi.org/10.1145/3493244.3493274
+  doi: 10.1145/3493244.3493274
   type: conference
   language: en
-- authors: Costa, P. H. M.; Cordeiro, A. F. R.; OliveiraJr, E
-  title: Comparing Open Data Repositories
-  venue: Regional School of Software Engineering (ERES)
+- authors: Bettin, G.; OliveiraJr, E.
+  title: 'SMartyPerspective: a perspective-based inspection technique for software
+    product lines'
+  venue: Proceedings of the Brazilian Symposium on Software Engineering
   year: 2021
-  doi: https://dx.doi.org/10.5753/eres.2021.18451
+  doi: 10.1145/3474624.3474626
   type: conference
   language: en
-- authors: OliveiraJr, E.; Colanzi, T. E.; Amaral, A.; Cordeiro, A. F. R.; Choma Neto,
-    J.; Souza, S. R. S
-  title: Ensino, Aprendizagem e Uso Profissional da UML em Maringá e Região
-  venue: Workshop sobre Educação em Computação (WEI)
+- authors: Choma Neto, J.; OliveiraJr, E.; Souza, S. R. S.; Bento, L. H. T. C.
+  title: Are we teaching UML according to what IT companies need? A survey on the
+    São Carlos-SP region
+  venue: Proceedings of the Brazilian Symposium on Computer Education
   year: 2021
-  doi: https://dx.doi.org/10.5753/wei.2021.15924
+  doi: 10.5753/educomp.2021.14469
   type: conference
   language: en
-- authors: Petry, K. L.; OliveiraJr, E.; Zorzo, A
+- authors: Nepomuceno, T. S.; OliveiraJr, E.
+  title: 'Software Product Line Traceability and Product Configuration in Class and
+    Sequence Diagrams: an Empirical Study'
+  venue: International Conference on Enterprise Information Systems
+  year: 2021
+  doi: 10.5220/0010411001970204
+  type: conference
+  language: en
+- authors: Petry, K. L.; OliveiraJr, E.; Costa, L. T.; Zanin, A.; Zorzo, A. F.
+  title: 'SMartyTesting: a Model-Based Testing Approach for Deriving Software Product
+    Line Test Sequences'
+  venue: International Conference on Enterprise Information Systems
+  year: 2021
+  doi: 10.5220/0010373601650172
+  type: conference
+  language: en
+- authors: Allian, A. P.; OliveiraJr, E.; Capilla, R.; Nakagawa, E. Y.
+  title: Have Variability Tools Fulfilled the Needs of Software Industry?
+  venue: Journal of Universal Computer Science
+  year: 2020
+  doi: 10.3897/jucs.2020.067
+  type: journal
+  language: en
+- authors: Petry, K. L.; OliveiraJr, E.; Zorzo, A.
   title: 'Model-based testing of software product lines: Mapping study and research
     roadmap'
-  venue: The Journal of Systems and Software
+  venue: Journal of Systems and Software
   year: 2020
-  doi: https://dx.doi.org/10.1016/j.jss.2020.110608
-  type: conference
+  doi: 10.1016/j.jss.2020.110608
+  type: journal
   language: en
-- authors: OliveiraJr, E.; Zorzo, A.; Neu, C. V
+- authors: OliveiraJr, E.; Zorzo, A.; Neu, C. V.
   title: Towards a conceptual model for promoting digital forensics experiments
   venue: 'Forensic Science International: Digital Investigation'
   year: 2020
-  doi: https://dx.doi.org/10.1016/j.fsidi.2020.301014
+  doi: 10.1016/j.fsidi.2020.301014
+  type: journal
+  language: en
+- authors: Garcia, L.; OliveiraJr, E.; Leal, G. C. L.; Morandini, M.; Urbanowski,
+    S.
+  title: 'Adaptations of Scrum roles in software projects: Survey and representation
+    tentative with feature models'
+  venue: Proceedings of the Brazilian Symposium on Software Engineering
+  year: 2020
+  doi: 10.1145/3422392.3422403
   type: conference
   language: en
-- authors: Allian, A. P.; OliveiraJr, E.; Capilla, R.; Nakagawa, E. Y
-  title: Have Variability Tools Fulfilled the Needs of the Software Industry?
-  venue: Journal of Universal Computer Science
+- authors: OliveiraJr, E.; Leal, G. C. L.; Valente, M. T.; Morandini, M.; Prikladnicki,
+    R.; Pompermaier, L.; Chanin, R.; Caldeira, C.; Machado, L.; Souza, C.
+  title: Surveying the impacts of COVID-19 on the perceived productivity of Brazilian
+    software developers
+  venue: Proceedings of the Brazilian Symposium on Software Engineering
   year: 2020
-  doi: https://dx.doi.org/10.3897/jucs.2020.067
+  doi: 10.1145/3422392.3422444
   type: conference
   language: en
 - authors: Nepomuceno, T. S.; OliveiraJr, E.; Penteado, R. R. M.; Silva, M. A. G.;
-    Zorzo, A
+    Zorzo, A.
   title: Empirical Study on Product Configuration and Traceability in UML-based Product-Lines
-  venue: Ibero-American Conference on Software Engineering (CIbSE)
+  venue: Proceedings of the Ibero-American Conference on Software Engineering
   year: 2020
   doi: ''
   type: conference
   language: en
-- authors: Vignando, H.; Furtado, V.; Teixeira, L.; OliveiraJr, E
-  title: 'OntoExper-SPL: An Ontology for Software Product Line Experiments'
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2020
-  doi: https://dx.doi.org/10.5220/0009575404010408
-  type: conference
-  language: en
-- authors: Garcia, L.; OliveiraJr, E.; Leal, G; Morandini, M
-  title: 'On the Adaptations of the Scrum Framework Software Development Events: Literature
-    and Practitioners Analysis using Feature Models'
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2020
-  doi: https://dx.doi.org/10.5220/0009578904160423
-  type: conference
-  language: en
-- authors: Silva, L.; OliveiraJr, E.; Zorzo, A
-  title: Feasibility Analysis of SMartyModeling for Modeling UML-based Software Product
-    Lines
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2020
-  doi: https://dx.doi.org/10.5220/0009793404420449
-  type: conference
-  language: en
-- authors: Nepomuceno, T.; OliveiraJr, E.; Geraldi, R.; Malucelli, A.; Reinehr, S.;
-    Silva, M. A. G
-  title: 'Software Product Line Configuration and Traceability: An Empirical Study
-    on SMarty Class and Component Diagrams'
-  venue: Annual Computers, Software, and Applications Conference (COMPSAC)
-  year: 2020
-  doi: https://dx.doi.org/10.1109/compsac48688.2020.0-144
-  type: conference
-  language: en
-- authors: OliveiraJr, E.; Leal, G.; Valente, M. T.; Morandini, M.; Prikladinicki,
-    R.; Pompermaier, L.; Chanin, R.; Caldeira, C.; Machado, L.; Souza, C
-  title: Surveying the impacts of COVID-19 on the perceived productivity of Brazilian
-    software developers
-  venue: Brazilian Symposium on Software Engineering (SBES)
-  year: 2020
-  doi: https://dx.doi.org/10.1145/3422392.3422444
-  type: conference
-  language: en
-- authors: Garcia, L. A.; OliveiraJr, E.; Leal, G. C. L.; Morandini, M.; Urbanowski,
-    S
-  title: Adaptations of Scrum roles in software projects
-  venue: Brazilian Symposium on Software Engineering (SBES)
-  year: 2020
-  doi: https://dx.doi.org/10.1145/3422392.3422403
-  type: conference
-  language: en
-- authors: Silva, L. F.; OliveiraJr, E
+- authors: Silva, L. F.; OliveiraJr, E.
   title: Evaluating usefulness, ease of use and usability of an UML-based Software
     Product Line Tool
-  venue: Brazilian Symposium on Software Engineering (SBES)
+  venue: Proceedings of the Brazilian Symposium on Software Engineering
   year: 2020
-  doi: https://dx.doi.org/10.1145/3422392.3422402
+  doi: 10.1145/3422392.3422402
   type: conference
   language: en
-- authors: Luz, C. D.; OliveiraJr, E.; Steinmacher, I
-  title: Uma Ontologia de Apoio ao Ensino de Experimentação em Engenharia de Software
-  venue: 'Congresso Brasileiro de Software: Teoria e Prática (CBSoft)'
+- authors: Silva, L. F.; OliveiraJr, E.; Zorzo, A. F.
+  title: Feasibility Analysis of SMartyModeling for Modeling UML-based Software Product
+    Lines
+  venue: Proceedings of the International Conference on Enterprise Information Systems
   year: 2020
-  doi: https://dx.doi.org/10.5753/cbsoft_estendido.2020.14611
+  doi: 10.5220/0009793404420449
   type: conference
   language: en
-- authors: Silva, L. F.; Fernandes, B.; OliveiraJr, E
-  title: Evolução do Ambiente SMartyModeling por meio de Testes Exploratórios
-  venue: Escola Regional de Engenharia de Software (ERES)
+- authors: Vignando, H.; Furtado, V. R.; Teixeira, L.; OliveiraJr, E.
+  title: 'OntoExper-SPL: An Ontology for Software Product Line Experiments'
+  venue: Proceedings of the International Conference on Enterprise Information Systems
   year: 2020
-  doi: https://dx.doi.org/10.5753/eres.2020.13730
+  doi: 10.5220/0009575404010408
   type: conference
   language: en
-- authors: Garcia, L. A.; OliveiraJr, E.; Leal, G. C. L.; Morandini, M
-  title: A Unified Feature Model for Scrum Artifacts from a Literature and Practice
-    Perspective
-  venue: Escola Regional de Engenharia de Software (ERES)
+- authors: Nepomuceno, T. S.; OliveiraJr, E.; Geraldi, R. T.; Malucelli, A.; Reinehr,
+    S.; Silva, M. A. G.
+  title: 'Software Product Line Configuration and Traceability: An Empirical Study
+    on SMarty Class and Component Diagrams'
+  venue: Proceedings of the Annual Computers, Software, and Applications Conference
   year: 2020
-  doi: https://dx.doi.org/10.5753/eres.2020.13740
+  doi: 10.1109/COMPSAC48688.2020.0-144
   type: conference
   language: en
-- authors: Silva, L. F.; OliveiraJr, E
-  title: Modeling and Configuring UML-based Software Product Lines with SMartyModeling
-  venue: Escola Regional de Engenharia de Software (ERES)
-  year: 2020
-  doi: https://dx.doi.org/10.5753/eres.2020.13743
-  type: conference
-  language: en
-- authors: Teixeira, E. N.; Aleixo, F. A.; Amâncio, F. D. S.; OliveiraJr, E.; Kulesza,
-    U.; Werner, C
+- authors: Nogueira Teixeira, E.; Aleixo, F.; Am{\^a}ncio, F. D. S.; OliveiraJr, E.;
+    Kulesza, U.; Werner, C.
   title: 'Software process line as an approach to support software process reuse:
     A systematic literature review'
   venue: Information and Software Technology
   year: 2019
-  doi: https://dx.doi.org/10.1016/j.infsof.2019.08.007
-  type: conference
+  doi: 10.1016/j.infsof.2019.08.007
+  type: journal
   language: en
-- authors: Furtado, V. R.; Vignando, H.; Franca, V.; OliveiraJr, E
-  title: 'Comparing Approaches for Quality Evaluation of Software Engineering Experiments:
-    an Empirical Study Using Software Product Line Experiments'
-  venue: Journal of Computer Science
-  year: 2019
-  doi: https://dx.doi.org/10.3844/jcssp.2019.1396.1429
-  type: conference
-  language: en
-- authors: Giron, A.; Gimenes, I. M. S.; OliveiraJr, E
-  title: Evaluation of Test Case Generation based on a Software Product Line for Model
-    Transformation
-  venue: Journal of Computer Science
-  year: 2018
-  doi: https://dx.doi.org/10.3844/jcssp.2018.108.121
-  type: conference
-  language: en
-- authors: Cordeiro, A. F. R.; OliveiraJr, E
-  title: 'Size, Coupling and Cohesion Metrics for Product-Line Architecture Evaluation:
-    Proposal and Experimental Validation'
-  venue: Journal of Computer Science
-  year: 2018
-  doi: https://dx.doi.org/10.3844/jcssp.2018.408.422
-  type: conference
-  language: en
-- authors: Pazin, M. G.; Allian, A. P.; OliveiraJr, E
+- authors: Pazin, M. G.; Allian, A. P.; OliveiraJr, E.
   title: Empirical study on software process variability modelling with SMartySPEM
     and vSPEM
   venue: IET Software
   year: 2018
-  doi: https://dx.doi.org/10.1049/iet-sen.2017.0061
-  type: conference
-  language: en
-- authors: Nepomuceno, T. S.; OliveiraJr, E
-  title: Configuring Software Product Line Specific Products with SMarty and PLUS
-  venue: Brazilian Symposium on Software Quality (SBQS)
-  year: 2018
-  doi: https://dx.doi.org/10.1145/3275245.3275254
-  type: conference
-  language: en
-- authors: Bettin, G. C. S.; Geraldi, R. T.; OliveiraJr, E
-  title: Experimental Evaluation of the SMartyCheck Techinique for Inspecting Defects
-    in UML Component Diagrams
-  venue: Brazilian Symposium on Software Quality (SBQS)
-  year: 2018
-  doi: https://dx.doi.org/10.1145/3275245.3275256
-  type: conference
-  language: en
-- authors: Pazin, M. G.; Geraldi, R. T.; OliveiraJr, E
-  title: Comparing SMartySPEM and vSPEM for Modeling Variability in Software Processes
-  venue: Brazilian Symposium on Software Quality (SBQS)
-  year: 2018
-  doi: https://dx.doi.org/10.1145/3275245.3275253
-  type: conference
-  language: en
-- authors: Marcolino, A. S.; OliveiraJr, E.; Gimnenes, I. M.S.; Barbosa, E. F
-  title: 'Variability Resolution and Product Configuration with SMarty: An Experimental
-    Study on UML Class Diagrams'
-  venue: Journal of Universal Computer Science
-  year: 2017
-  doi: https://dx.doi.org/10.3844/jcssp.2017.307.319
-  type: conference
-  language: en
-- authors: Geraldi, R. T.; OliveiraJr, E
-  title: 'Defect Types and Software Inspection Techniques: A Systematic Mapping Study'
-  venue: Journal of Computer Science
-  year: 2017
-  doi: https://dx.doi.org/10.3844/jcssp.2017.470.495
-  type: conference
-  language: en
-- authors: Marcolino, A.; OliveiraJr, E
-  title: 'Comparing SMarty and PLUS for Variability Identification and Representation
-    at Product-Line UML Class Level: A Controlled Quasi-Experiment'
-  venue: Journal of Computer Science
-  year: 2017
-  doi: https://dx.doi.org/10.3844/jcssp.2017.617.632
-  type: conference
-  language: en
-- authors: Santos, M. C. B.; Colanzi, T. E.; Amaral, A. M. M. M.; OliveiraJr, E
-  title: Preliminary study on the correlation of objective functions to optimize product-line
-    architectures
-  venue: Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)
-  year: 2017
-  doi: https://dx.doi.org/10.1145/3132498.3133834
-  type: conference
-  language: en
-- authors: Cordeiro, A. F. R.; OliveiraJr, E
-  title: 'SystEM-Env: um Ambiente para Avaliação de Linhas de Produto de Software
-    baseadas em UML'
-  venue: Revista Eletrônica de Iniciação Científica
-  year: 2017
-  doi: ''
-  type: conference
-  language: en
-- authors: Dias, J. W.; OliveiraJr, E
-  title: 'Modeling Variability in Software Process with EPF Composer and SMartySPEM:
-    An Empirical Qualitative Study'
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2016
-  doi: https://dx.doi.org/10.5220/0005771502830293
-  type: conference
-  language: en
-- authors: Duarte, E. F.; Nanni, L. P.; Geraldi, R. T.; OliveiraJr, E.; Feltrim, V.
-    D.; Pereira, R
-  title: 'Ordering Matters: An Experimental Study of Ranking Influence on Results
-    Selection Behavior during Exploratory Search'
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2016
-  doi: https://dx.doi.org/10.5220/0005828704270434
-  type: conference
-  language: en
-- authors: Dias, J. W.; OliveiraJr, E.; Silva, M. A. G
-  title: Preliminary Empirical Evidence on SPrL Variability Management with EPF and
-    SMartySPEM
-  venue: Brazilian Symposium on Software Engineering (SBES)
-  year: 2016
-  doi: https://dx.doi.org/10.1145/2973839.2973850
-  type: conference
-  language: en
-- authors: Geraldi, R. T.; Conte, T.; Steinmacher, I.; OliveiraJr, E
-  title: Checklist-based Inspection of SMarty Variability Models - Proposal and Empirical
-    Feasibility Study
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2015
-  doi: https://dx.doi.org/10.5220/0005350102680276
-  type: conference
-  language: en
-- authors: Bera, M. H. G.; OliveiraJr, E.; Colanzi, T. E
-  title: Evidence-based SMarty Support for Variability Identification and Representation
-    in Component Models
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2015
-  doi: https://dx.doi.org/10.5220/0005366402950302
-  type: conference
-  language: en
-- authors: Melo, M.; OliveiraJr, E.; Soares, M. S.; França, J. M. S
-  title: A Model-driven Approach to Transform SysML Internal Block Diagrams to UML
-    Activity Diagrams
-  venue: International Conference on Enterprise Information Systems (ICEIS)
-  year: 2015
-  doi: https://dx.doi.org/10.5220/0005372700920101
-  type: conference
-  language: en
-- authors: Duarte, E. F.; OliveiraJr, E.; Cogo, F. R.; Pereira, R
-  title: 'Dico: A Conceptual Model to Support the Design and Evaluation of Advanced
-    Search Features for Exploratory Search'
-  venue: International Conference on Human-Computer Interaction (INTERACT)
-  year: 2015
-  doi: ''
-  type: conference
-  language: en
-- authors: OliveiraJr, E.; Allian, A. P
-  title: Do Reference Architectures can Contribute to Standardizing Variability Management
-    Tools?
-  venue: International Workshop on Exploring Component-based Techniques for Constructing
-    Reference Architectures (CobRA)
-  year: 2015
-  doi: https://dx.doi.org/10.1145/2755567.2755568
-  type: conference
-  language: en
-- authors: Chiquitto, A. G.; Gimenes, I. M.S.; OliveiraJr, E
-  title: 'SyMPLES-CVL: A SysML and CVL Based Approach for Product-Line Development
-    of Embedded Systems'
-  venue: Brazilian Symposium on Components, Architectures and Reuse Software (SBCARS)
-  year: 2015
-  doi: https://dx.doi.org/10.1109/SBCARS.2015.13
-  type: conference
-  language: en
-- authors: Toledo, D. F.; Pereira, R.; OliveiraJr, E
-  title: 'Identifying Cognitive Authority in Social Networks: a Conceptual Framework'
-  venue: Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais
-  year: 2015
-  doi: ''
-  type: conference
+  doi: 10.1049/iet-sen.2017.0061
+  type: journal
   language: en
