@@ -24,6 +24,25 @@
    Publications
    =============================== */
 
+/* Reduce font size only on Publications page */
+.publications-page {
+  font-size: 0.95rem;
+}
+
+.publications-page h1 {
+  font-size: 1.6rem;
+}
+
+.publications-page h2 {
+  font-size: 1.1rem;
+}
+
+.publications-page li {
+  margin-bottom: 0.6em;
+  line-height: 1.4;
+}
+
+
 .publication-list {
   list-style: none;
   padding-left: 0;
