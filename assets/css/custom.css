@@ -136,3 +136,36 @@
   vertical-align: middle;
   opacity: 0.9;
 }
+
+
+/*services*/
+.service-section {
+  font-size: 0.95rem;
+}
+
+.service-section h1 {
+  font-size: 1.7rem;
+  margin-bottom: 0.8em;
+}
+
+.service-section h2 {
+  font-size: 1.2rem;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+}
+
+.service-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.service-list li {
+  margin-bottom: 0.45em;
+  line-height: 1.45;
+}
+
+.service-list em {
+  font-style: italic;
+}
+
+
