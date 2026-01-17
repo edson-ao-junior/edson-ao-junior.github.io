@@ -189,3 +189,8 @@ conferences:
     - role: "TPC Member"
       venue: "Brazilian Symposium on Software Quality – Industry Experience Report Track (SBQS)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
+
+    - role: "Artifact Evaluator"
+      venue: "Brazilian Symposium on Software Engineering – Artifacts Track (SBES)"
+      years: [2025, 2024]
+
