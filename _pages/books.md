@@ -84,5 +84,3 @@ author_profile: true
   </li>
 {% endfor %}
 </ul>
-
-</ul>
