@@ -138,34 +138,65 @@
 }
 
 
-/*services*/
-.service-section {
-  font-size: 0.95rem;
+/* ===============================
+   Service – Global structure
+   =============================== */
+
+.service-page {
+  font-size: 0.9rem;
 }
 
-.service-section h1 {
-  font-size: 1.7rem;
-  margin-bottom: 0.8em;
+/* ===============================
+   Headings
+   =============================== */
+
+.service-page h1 {
+  font-size: 1.6rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.4rem;
 }
 
-.service-section h2 {
-  font-size: 1.2rem;
-  margin-top: 1.6em;
-  margin-bottom: 0.6em;
+.service-page h2 {
+  font-size: 1.1rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
 }
+
+/* ===============================
+   Service lists
+   =============================== */
 
 .service-list {
   list-style: none;
   padding-left: 0;
+  margin-left: 0;
 }
 
-.service-list li {
+.service-page .service-list li {
   margin-bottom: 0.45em;
   line-height: 1.45;
 }
 
-.service-list em {
+.service-page .service-list em {
   font-style: italic;
 }
 
+/* ===============================
+   Responsive fine-tuning
+   =============================== */
+
+@media (max-width: 768px) {
+  .service-page {
+    font-size: 0.93rem;
+  }
+
+  .service-page h1 {
+    font-size: 1.45rem;
+  }
+
+  .service-page h2 {
+    font-size: 1.05rem;
+  }
+}
 
