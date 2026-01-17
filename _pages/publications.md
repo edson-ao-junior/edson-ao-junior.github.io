@@ -6,4 +6,4 @@ author: "Edson OliveiraJr"
 author_profile: true
 ---
 
-{% include publications.html %}
+Publications page is working.
