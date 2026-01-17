@@ -17,25 +17,44 @@
           {{ pub.authors }}.
           <strong>{{ pub.title }}</strong>.
           <em>{{ pub.venue }}</em>.
+
+          {%- comment -%} DOI {%- endcomment -%}
           {% if pub.doi %}
             {% if pub.doi != "DOI" %}
               <a href="https://doi.org/{{ pub.doi }}"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="doi-link"
-                title="View DOI">
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 class="doi-link"
+                 title="View DOI">
                 <img src="{{ 'assets/img/doi.png' | relative_url }}"
-                  alt="DOI"
-                  class="doi-icon"
-                  width="22"
-                  height="22">
-               </a>
+                     alt="DOI"
+                     class="doi-icon"
+                     width="22"
+                     height="22">
+              </a>
             {% else %}
-              <span class="doi-text">DOI</span>.
+              <span class="doi-text">DOI</span>
             {% endif %}
           {% else %}
-            <span class="doi-text">DOI</span>.
+            <span class="doi-text">DOI</span>
           {% endif %}
+
+          {%- comment -%} ARTIFACT {%- endcomment -%}
+          {% if pub.artifact %}
+            <a href="{{ pub.artifact }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="artifact-link"
+               title="Artifacts Available">
+              <img src="{{ 'assets/img/artifact.png' | relative_url }}"
+                   alt="Artifacts Available"
+                   title="Artifacts Available"
+                   class="artifact-icon"
+                   width="22"
+                   height="22">
+            </a>
+          {% endif %}
+
           {% if pub.language == "pt" %}
             <span title="Publication in Portuguese">🇧🇷</span>
           {% endif %}
@@ -53,6 +72,8 @@
           {{ pub.authors }}.
           <strong>{{ pub.title }}</strong>.
           <em>{{ pub.venue }}</em>.
+
+          {%- comment -%} DOI {%- endcomment -%}
           {% if pub.doi %}
             {% if pub.doi != "DOI" %}
               <a href="https://doi.org/{{ pub.doi }}"
@@ -60,16 +81,35 @@
                  rel="noopener noreferrer"
                  class="doi-link"
                  title="View DOI">
-                <img src="https://www.doi.org/images/doi_logo.svg"
+                <img src="{{ 'assets/img/doi.png' | relative_url }}"
                      alt="DOI"
-                     class="doi-icon">
-              </a>.
+                     class="doi-icon"
+                     width="22"
+                     height="22">
+              </a>
             {% else %}
-              <span class="doi-text">DOI</span>.
+              <span class="doi-text">DOI</span>
             {% endif %}
           {% else %}
-            <span class="doi-text">DOI</span>.
+            <span class="doi-text">DOI</span>
           {% endif %}
+
+          {%- comment -%} ARTIFACT {%- endcomment -%}
+          {% if pub.artifact %}
+            <a href="{{ pub.artifact }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="artifact-link"
+               title="Artifacts Available">
+              <img src="{{ 'assets/img/artifact.png' | relative_url }}"
+                   alt="Artifacts Available"
+                   title="Artifacts Available"
+                   class="artifact-icon"
+                   width="22"
+                   height="22">
+            </a>
+          {% endif %}
+
           {% if pub.language == "pt" %}
             <span title="Publication in Portuguese">🇧🇷</span>
           {% endif %}
