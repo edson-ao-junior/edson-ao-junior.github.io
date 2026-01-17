@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Books and Chapters"
+title: "Books"
 permalink: /books/
 author: "Edson OliveiraJr"
 author_profile: true
+classes: books-page
 ---
 
 {% for book in site.data.books %}
