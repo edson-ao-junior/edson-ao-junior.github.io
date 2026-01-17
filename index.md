@@ -11,7 +11,7 @@ My research lies at the intersection of **Empirical Software Engineering**, **Op
 
 A central theme of my work is understanding how **open, reproducible, and transparency** can strengthen the reliability of scientific evidence and improve research practices in Software Engineering and Digital Forensics.
 
-On this website, you can find information about my **publications**, **research projects**, **teaching activities**, and **open science artifacts**.
+On this website, you can find information about my **publications**, **research projects**, **teaching activities**, and **open science**.
 
 ---
 
