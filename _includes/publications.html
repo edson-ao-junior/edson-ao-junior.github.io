@@ -1,28 +1,27 @@
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
-
 {% assign current_year = "" %}
 
-<ul class="publication-list">
 {% for pub in pubs %}
   {% if pub.year != current_year %}
     {% assign current_year = pub.year %}
-    </ul>
     <h2>{{ current_year }}</h2>
     <ul class="publication-list">
   {% endif %}
 
   <li>
-    <span class="pub-authors">{{ pub.authors }}</span>.
-    <strong class="pub-title">{{ pub.title }}</strong>.
-    <em class="pub-venue">{{ pub.venue }}</em>.
-
+    {{ pub.authors }}.
+    <strong>{{ pub.title }}</strong>.
+    <em>{{ pub.venue }}</em>.
     {% if pub.doi %}
       <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
     {% endif %}
-
     {% if pub.language == "pt" %}
       <span title="Publication in Portuguese">🇧🇷</span>
     {% endif %}
   </li>
+
+  {% assign next = pubs[forloop.index] %}
+  {% if next == nil or next.year != current_year %}
+    </ul>
+  {% endif %}
 {% endfor %}
-</ul>
