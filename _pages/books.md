@@ -80,6 +80,7 @@ classes: books-page
       <div class="chapter-abstract">
         <strong>Abstract:</strong> {{ ch.abstract }}
       </div>
+      <hr>
     {% endif %}
 
   </li>
