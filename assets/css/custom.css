@@ -51,3 +51,19 @@
   color: #888;
   margin-left: 4px;
 }
+
+
+.quick-access {
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.quick-access a {
+  margin: 0 4px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.quick-access a:hover {
+  text-decoration: underline;
+}
