@@ -251,3 +251,48 @@
     min-width: 110px !important;
   }
 }
+
+/* ===============================
+   Book Chapters – spaced editorial layout
+   =============================== */
+
+.books-page .chapter-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.books-page .chapter-entry {
+  padding: 0.8rem 0 1.2rem 0;
+  margin-bottom: 1.6rem;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+/* Title */
+.books-page .chapter-title {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+/* Meta line */
+.books-page .chapter-meta {
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+  line-height: 1.35;
+}
+
+/* DOI separated */
+.books-page .chapter-doi {
+  font-size: 0.85rem;
+  margin-bottom: 0.6rem;
+}
+
+/* Abstract clearly separated */
+.books-page .chapter-abstract {
+  margin-top: 0.4rem;
+  padding-top: 0.4rem;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: #555;
+}

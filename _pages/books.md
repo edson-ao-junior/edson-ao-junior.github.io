@@ -54,22 +54,35 @@ author_profile: true
 
 <ul class="chapter-list">
 {% for ch in site.data.book_chapters %}
-  <li>
-    <strong>{{ ch.title }}</strong><br>
-    {{ ch.authors }}.<br>
-    In <em>{{ ch.book_title }}</em>.
-    {{ ch.publisher }}, {{ ch.year }}.
+  <li class="chapter-entry">
+
+    <div class="chapter-header">
+      <strong class="chapter-title">{{ ch.title }}</strong>
+    </div>
+
+    <div class="chapter-meta">
+      {{ ch.authors }}.<br>
+      In <em>{{ ch.book_title }}</em>.
+      {{ ch.publisher }}, {{ ch.year }}.
+    </div>
+
     {% if ch.doi %}
-      DOI:
-      <a href="https://doi.org/{{ ch.doi }}" target="_blank" rel="noopener">
-        {{ ch.doi }}
-      </a>
+      <div class="chapter-doi">
+        DOI:
+        <a href="https://doi.org/{{ ch.doi }}" target="_blank" rel="noopener">
+          {{ ch.doi }}
+        </a>
+      </div>
     {% endif %}
+
     {% if ch.abstract %}
       <div class="chapter-abstract">
         {{ ch.abstract }}
       </div>
     {% endif %}
+
   </li>
 {% endfor %}
+</ul>
+
 </ul>
