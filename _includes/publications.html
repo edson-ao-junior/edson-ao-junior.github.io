@@ -16,7 +16,13 @@
           <strong>{{ pub.title }}</strong>.
           <em>{{ pub.venue }}</em>.
           {% if pub.doi %}
-            <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
+            {% if pub.doi != "DOI" %}
+              <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
+            {% else %}
+              DOI.
+            {% endif %}
+          {% else %}
+            DOI.
           {% endif %}
           {% if pub.language == "pt" %}
             <span title="Publication in Portuguese">🇧🇷</span>
@@ -36,7 +42,13 @@
           <strong>{{ pub.title }}</strong>.
           <em>{{ pub.venue }}</em>.
           {% if pub.doi %}
-            <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
+            {% if pub.doi != "DOI" %}
+              <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
+            {% else %}
+              DOI.
+            {% endif %}
+          {% else %}
+            DOI.
           {% endif %}
           {% if pub.language == "pt" %}
             <span title="Publication in Portuguese">🇧🇷</span>
