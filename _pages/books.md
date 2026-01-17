@@ -8,6 +8,10 @@ author_profile: true
 
 {% for book in site.data.books %}
 
+{% unless forloop.first %}
+<hr>
+{% endunless %}
+
 <div class="book-entry">
 
   <div class="book-cover">
@@ -26,10 +30,6 @@ author_profile: true
       <em>{{ book.publisher }}</em>, {{ book.year }}
     </p>
 
-    <p class="book-abstract">
-      {{ book.abstract }}
-    </p>
-
     {% if book.doi %}
       <p class="book-doi">
         DOI:
@@ -38,9 +38,12 @@ author_profile: true
         </a>
       </p>
     {% endif %}
+
+    <p class="book-abstract">
+      {{ book.abstract }}
+    </p>
   </div>
 
 </div>
-<br>
 
 {% endfor %}
