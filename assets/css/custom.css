@@ -118,3 +118,21 @@
     font-size: 1.05rem;
   }
 }
+
+/* ===============================
+   Legend
+   =============================== */
+
+.quick-access-legend {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 4px;
+}
+
+.quick-access-legend img {
+  vertical-align: middle;
+  opacity: 0.9;
+}

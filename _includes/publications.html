@@ -10,6 +10,16 @@
     <a href="#year-{{ y }}">{{ y }}</a>{% unless forloop.last %},{% endunless %}
   {% endfor %}
 </div>
+
+<div class="quick-access-legend">
+  <img src="{{ 'assets/img/artifact.png' | relative_url }}"
+       alt="Research Artifacts"
+       class="artifact-icon"
+       width="44"
+       height="44">
+  <span>Research Artifacts</span>
+</div>
+
 <hr>
 <br>
 {% for y in years %}
