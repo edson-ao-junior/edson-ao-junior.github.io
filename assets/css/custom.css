@@ -18,3 +18,34 @@
 .pub-venue {
   font-style: italic;
 }
+
+
+/* ===============================
+   Publications
+   =============================== */
+
+.publication-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.publication-list li {
+  margin-bottom: 0.8em;
+  line-height: 1.4;
+}
+
+.doi-icon {
+  height: 16px;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
+.doi-link:hover {
+  opacity: 0.75;
+}
+
+.doi-text {
+  font-size: 0.85em;
+  color: #888;
+  margin-left: 4px;
+}

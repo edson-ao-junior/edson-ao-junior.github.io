@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/customs.css">
+
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 {% assign years = pubs | map: "year" | uniq %}
 
@@ -17,12 +19,20 @@
           <em>{{ pub.venue }}</em>.
           {% if pub.doi %}
             {% if pub.doi != "DOI" %}
-              <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
+              <a href="https://doi.org/{{ pub.doi }}"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 class="doi-link"
+                 title="View DOI">
+                <img src="https://www.doi.org/images/doi_logo.svg"
+                     alt="DOI"
+                     class="doi-icon">
+              </a>.
             {% else %}
-              DOI.
+              <span class="doi-text">DOI</span>.
             {% endif %}
           {% else %}
-            DOI.
+            <span class="doi-text">DOI</span>.
           {% endif %}
           {% if pub.language == "pt" %}
             <span title="Publication in Portuguese">🇧🇷</span>
@@ -43,12 +53,20 @@
           <em>{{ pub.venue }}</em>.
           {% if pub.doi %}
             {% if pub.doi != "DOI" %}
-              <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
+              <a href="https://doi.org/{{ pub.doi }}"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 class="doi-link"
+                 title="View DOI">
+                <img src="https://www.doi.org/images/doi_logo.svg"
+                     alt="DOI"
+                     class="doi-icon">
+              </a>.
             {% else %}
-              DOI.
+              <span class="doi-text">DOI</span>.
             {% endif %}
           {% else %}
-            DOI.
+            <span class="doi-text">DOI</span>.
           {% endif %}
           {% if pub.language == "pt" %}
             <span title="Publication in Portuguese">🇧🇷</span>
