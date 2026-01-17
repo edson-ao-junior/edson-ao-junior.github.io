@@ -3,6 +3,7 @@ layout: single
 title: "About"
 permalink: /about/
 author_profile: true
+author: "Edson OliveiraJr"
 ---
 
 **Edson OliveiraJr** is an Associate Professor of Software Engineering at the State University of Maringá (Brazil).
