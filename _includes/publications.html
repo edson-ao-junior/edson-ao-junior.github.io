@@ -20,14 +20,14 @@
           {% if pub.doi %}
             {% if pub.doi != "DOI" %}
               <a href="https://doi.org/{{ pub.doi }}"
-                 target="_blank"
-                 rel="noopener noreferrer"
-                 class="doi-link"
-                 title="View DOI">
-                <img src="https://www.doi.org/images/doi_logo.svg"
-                     alt="DOI"
-                     class="doi-icon">
-              </a>.
+                target="_blank"
+                rel="noopener noreferrer"
+                class="doi-link"
+                title="View DOI">
+                <img src="{{ 'assets/img/doi.svg' | relative_url }}"
+                    alt="DOI"
+                    class="doi-icon">
+              </a>
             {% else %}
               <span class="doi-text">DOI</span>.
             {% endif %}
