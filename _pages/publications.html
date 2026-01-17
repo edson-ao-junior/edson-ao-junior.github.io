@@ -1,0 +1,21 @@
+{% assign pubs = site.data.publications %}
+{% if pubs %}
+<ul>
+  {% for pub in pubs %}
+  <li>
+    {{ pub.authors }}.
+    <strong>{{ pub.title }}</strong>.
+    <em>{{ pub.venue }}</em>,
+    {{ pub.year }}.
+    {% if pub.doi %}
+      <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>
+    {% endif %}
+    {% if pub.language == "pt" %}
+      🇧🇷
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>Publications list not available.</p>
+{% endif %}
