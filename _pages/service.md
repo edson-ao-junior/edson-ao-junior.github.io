@@ -1,9 +1,9 @@
 ---
 title: "Service"
 permalink: /service/
-layout: archive
+layout: single
+author: "Edson OliveiraJr"
 author_profile: true
-classes: service-page
 ---
 
 ## Editorial Service
