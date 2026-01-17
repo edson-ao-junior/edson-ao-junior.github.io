@@ -5,4 +5,4 @@ permalink: /publications/
 author: "Edson OliveiraJr"
 ---
 
-{% include publications.html %}
+{% bibliography %}
