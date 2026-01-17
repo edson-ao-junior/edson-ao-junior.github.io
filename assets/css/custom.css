@@ -35,9 +35,11 @@
 }
 
 .doi-icon {
-  height: 16px;
+  width: 22px;          /* controla o tamanho real */
+  height: auto;
   vertical-align: middle;
   margin-left: 4px;
+  display: inline-block;
 }
 
 .doi-link:hover {
