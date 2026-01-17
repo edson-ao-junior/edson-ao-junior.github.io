@@ -3,12 +3,13 @@ description: "Associate Professor of Software Engineering"
 url: "https://edson-ao-junior.github.io"
 baseurl: ""
 
-remote_theme: "academicpages/academicpages.github.io"
+remote_theme: academicpages/academicpages.github.io
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-scholar
 
 markdown: kramdown
 
@@ -17,4 +18,11 @@ author: "Edson OliveiraJr"
 collections:
   pages:
     output: true
-    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
