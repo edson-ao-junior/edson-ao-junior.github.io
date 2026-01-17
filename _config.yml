@@ -1,11 +1,1 @@
 title: "Edson OliveiraJr"
-description: "Associate Professor of Software Engineering"
-url: "https://edson-ao-junior.github.io"
-baseurl: ""
-
-remote_theme: academicpages/academicpages.github.io
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
