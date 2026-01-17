@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Service
+title: "Service"
 permalink: /service/
+layout: archive
+author_profile: true
+classes: service-page
 ---
 
 ## Editorial Service
