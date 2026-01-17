@@ -52,7 +52,7 @@
   doi: 10.5220/0013475600003929
   type: conference
   language: en
-- authors: Cordeiro, Andr{é} F. R.; OliveiraJr, Edson
+- authors: Cordeiro, André F. R.; OliveiraJr, Edson
   title: "FOSTER Taxonomy-based Open Science-Related Practices in Software Engineering: Review and Observations"
   venue: Proceedings of the 39th Brazilian Symposium on Software Engineering (SBES 2025)
   year: 2025
@@ -66,14 +66,14 @@
   doi: 10.5220/0013456000003929
   type: conference
   language: en
-- authors: Ferreira, Vin{í}cius E.; OliveiraJr, Edson; Zarpel{ã}o, Bruno B.; Zorzo, Avelino F.
+- authors: Ferreira, Vinícius E.; OliveiraJr, Edson; Zarpelão, Bruno B.; Zorzo, Avelino F.
   title: Characterizing Cybersecurity Awareness Among Brazilian Computer Science Higher Education Students
   venue: Proceedings of the 33rd Workshop on Computing Education (WEI 2025)
   year: 2025
   doi: 10.5753/wei.2025.7124
   type: conference
   language: en
-- authors: Lopes, Lais C{â}ndido Rodrigues da Silva; Carvalho, Kaique Cruvinel; Kassab, Mohamad; Kalinowski, Marcos; OliveiraJr,
+- authors: Lopes, Lais Cândido Rodrigues da Silva; Carvalho, Kaique Cruvinel; Kassab, Mohamad; Kalinowski, Marcos; OliveiraJr,
     Edson; Graciano Neto, Valdemar Vicente
   title: Investigating the Professional Profile of Software Architects in Brazil Using Job Advertisements
   venue: Proceedings of the 39th Brazilian Symposium on Software Engineering (SBES 2025)
@@ -88,7 +88,7 @@
   doi: 10.5753/jserd.2025.5757
   type: journal
   language: en
-- authors: Santos Neto, M. V.; Graciano Neto, Valdemar Vicente; Galv{ã}o Filho, A. R.; Kassab, Mohamad; OliveiraJr, Edson
+- authors: Santos Neto, M. V.; Graciano Neto, Valdemar Vicente; Galvão Filho, A. R.; Kassab, Mohamad; OliveiraJr, Edson
   title: Is It Responsible? Emerging Results on Comparing Guardrails for Harm Mitigation in LLM-enhanced Software Applications
   venue: Proceedings of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2025)
   year: 2025
@@ -123,7 +123,7 @@
   doi: DOI
   type: conference
   language: en
-- authors: Luz, Carlos D.; Moreira, Elaine I.; Ten{ó}rio, Nelson; OliveiraJr, Edson; Barbosa, Ellen F.
+- authors: Luz, Carlos D.; Moreira, Elaine I.; Tenório, Nelson; OliveiraJr, Edson; Barbosa, Ellen F.
   title: "Teaching and Learning of Introduction to Software Engineering Experimentation to Distance-Learning Students: A Quasi-Experiment"
   venue: Proceedings of the 2024 IEEE Frontiers in Education Conference (FIE 2024)
   year: 2024
@@ -182,7 +182,7 @@
   doi: 10.1145/3571788.3571792
   type: conference
   language: en
-- authors: Cordeiro, Andr{é} F. R.; OliveiraJr, Edson; Costa, Yandre M. G.
+- authors: Cordeiro, André F. R.; OliveiraJr, Edson; Costa, Yandre M. G.
   title: Date Fruit Classification Using a Wide Range of Classifiers
   venue: Proceedings of the 30th International Conference on Systems, Signals and Image Processing (IWSSIP 2023)
   year: 2023
@@ -205,7 +205,7 @@
   doi: 10.1145/3613372.3614202
   type: conference
   language: en
-- authors: Santana, Filipe Amadeu; Cordeiro, Andr{é} F. R.; OliveiraJr, Edson
+- authors: Santana, Filipe Amadeu; Cordeiro, André F. R.; OliveiraJr, Edson
   title: Use of the Dublin Core Standard to Express Open Metadata Related to Software Engineering Experiments
   venue: Proceedings of the 3rd Workshop on Open Science Practices for Software Engineering (OpenScienSE 2023)
   year: 2023
@@ -227,7 +227,7 @@
   doi: 10.5753/bresci.2022.222815
   type: conference
   language: en
-- authors: FalvoJr, V.; Marcolino, A. S.; Duarte Filho, Nem{é}sio; OliveiraJr, E.; Barbosa, E. F.
+- authors: FalvoJr, V.; Marcolino, A. S.; Duarte Filho, Nemésio; OliveiraJr, E.; Barbosa, E. F.
   title: Development and Evaluation of a Software Product Line for M-Learning Applications
   venue: Journal of Universal Computer Science
   year: 2022
@@ -318,7 +318,7 @@
   doi: 10.1145/3483899.3483909
   type: conference
   language: en
-- authors: Morandini, M.; Coleti, T. A.; OliveiraJr, E.; Corr{ê}a, P. L. P.
+- authors: Morandini, M.; Coleti, T. A.; OliveiraJr, E.; Corrêa, P. L. P.
   title: "Considerations about the efficiency and sufficiency of the utilization of the Scrum methodology: A survey for analyzing\
     \ results for development teams"
   venue: Computer Science Review
@@ -340,7 +340,7 @@
   doi: 10.5753/opensciense.2021.17142
   type: conference
   language: en
-- authors: OliveiraJr, Edson; Furtado, Viviane; Vignando, Henrique; Luz, Carlos; Cordeiro, Andr{é}; Steinmacher, Igor; Zorzo,
+- authors: OliveiraJr, Edson; Furtado, Viviane; Vignando, Henrique; Luz, Carlos; Cordeiro, André; Steinmacher, Igor; Zorzo,
     Avelino
   title: Towards Improving Experimentation in Software Engineering
   venue: Proceedings of the Brazilian Symposium on Software Engineering (SBES 2021)
@@ -448,7 +448,7 @@
   doi: 10.5220/0009575404010408
   type: conference
   language: en
-- authors: Nogueira Teixeira, E.; Aleixo, F.; Am{â}ncio, F. D. S.; OliveiraJr, E.; Kulesza, U.; Werner, C.
+- authors: Nogueira Teixeira, E.; Aleixo, F.; Amâncio, F. D. S.; OliveiraJr, E.; Kulesza, U.; Werner, C.
   title: "Software process line as an approach to support software process reuse: A systematic literature review"
   venue: Information and Software Technology
   year: 2019
