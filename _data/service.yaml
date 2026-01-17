@@ -1,195 +1,195 @@
 journals:
-  - role: Associate Editor
-    venue: IET Software
+  - role: "Associate Editor"
+    venue: "IET Software"
     start: 2023
-    end: present
+    end: "present"
 
-  - role: Editorial Board Member
-    venue: Journal of Universal Computer Science
+  - role: "Editorial Board Member"
+    venue: "Journal of Universal Computer Science"
     start: 2022
-    end: present
+    end: "present"
 
-  - role: Editorial Board Member
-    venue: Journal of Software Engineering Research and Development
+  - role: "Editorial Board Member"
+    venue: "Journal of Software Engineering Research and Development"
     start: 2021
-    end: present
+    end: "present"
 
-  - role: Reviewer
-    venue: IEEE Transactions on Software Engineering
+  - role: "Reviewer"
+    venue: "IEEE Transactions on Software Engineering"
     years: [2025, 2024, 2023]
 
-  - role: Reviewer
-    venue: Computer Science Review
+  - role: "Reviewer"
+    venue: "Computer Science Review"
     years: [2025, 2024]
 
-  - role: Reviewer
-    venue: IET Software
+  - role: "Reviewer"
+    venue: "IET Software"
     years: [2025, 2024, 2023]
 
-  - role: Reviewer
-    venue: Journal of Universal Computer Science
+  - role: "Reviewer"
+    venue: "Journal of Universal Computer Science"
     years: [2025, 2024, 2023]
 
-  - role: Reviewer
-    venue: ACM Computing Surveys
+  - role: "Reviewer"
+    venue: "ACM Computing Surveys"
     years: [2025, 2024]
 
-  - role: Reviewer
-    venue: Journal of Systems and Software
+  - role: "Reviewer"
+    venue: "Journal of Systems and Software"
     years: [2025, 2024, 2023]
 
-  - role: Reviewer
-    venue: Information and Software Technology
+  - role: "Reviewer"
+    venue: "Information and Software Technology"
     years: [2025, 2024, 2023]
 
-  - role: Reviewer
-    venue: Empirical Software Engineering
+  - role: "Reviewer"
+    venue: "Empirical Software Engineering"
     years: [2025, 2024, 2023]
 
-  - role: Reviewer
-    venue: ACM Transactions on Computing Education
+  - role: "Reviewer"
+    venue: "ACM Transactions on Computing Education"
     years: [2025, 2024]
 
-  - role: Reviewer
-    venue: Forensic Science International: Digital Investigation
+  - role: "Reviewer"
+    venue: "Forensic Science International: Digital Investigation"
     years: [2025, 2024, 2023]
 
-  - role: Reviewer
-    venue: Forensic Science Review
+  - role: "Reviewer"
+    venue: "Forensic Science Review"
     years: [2025, 2024]
 
-  - role: Reviewer
-    venue: Science & Justice
+  - role: "Reviewer"
+    venue: "Science & Justice"
     years: [2025, 2024]
 
-  - role: Reviewer
-    venue: Accreditation and Quality Assurance
+  - role: "Reviewer"
+    venue: "Accreditation and Quality Assurance"
     years: [2025, 2024]
 
-  - role: Reviewer
-    venue: Journal of Computer Languages
+  - role: "Reviewer"
+    venue: "Journal of Computer Languages"
     years: [2025, 2024]
 
-  - role: Reviewer
-    venue: CMC – Computers, Materials & Continua
+  - role: "Reviewer"
+    venue: "CMC – Computers, Materials & Continua"
     years: [2025, 2024]
 
 conferences:
   chair:
-    - role: PC Co-Chair
-      venue: Ibero-American Conference on Software Engineering (CIbSE)
+    - role: "PC Co-Chair"
+      venue: "Ibero-American Conference on Software Engineering (CIbSE)"
       years: [2024]
 
-    - role: PC Co-Chair
-      venue: Brazilian Computer Society Open Science Seminar (BCS-OSS)
+    - role: "PC Co-Chair"
+      venue: "Brazilian Computer Society Open Science Seminar (BCS-OSS)"
       years: [2024, 2023]
 
-    - role: Open Science Chair
-      venue: Ibero-American Conference on Software Engineering (CIbSE)
+    - role: "Open Science Chair"
+      venue: "Ibero-American Conference on Software Engineering (CIbSE)"
       years: [2024, 2023]
 
-    - role: Open Science Chair
-      venue: Brazilian Conference on Software Engineering (CBSoft)
+    - role: "Open Science Chair"
+      venue: "Brazilian Conference on Software Engineering (CBSoft)"
       years: [2023, 2022]
 
-    - role: General Chair
-      venue: Brazilian Symposium on Software Quality (SBQS)
+    - role: "General Chair"
+      venue: "Brazilian Symposium on Software Quality (SBQS)"
       years: [2026]
 
-    - role: General Chair
-      venue: Workshop on Open Science Practices for Software Engineering (OpenScienSE)
+    - role: "General Chair"
+      venue: "Workshop on Open Science Practices for Software Engineering (OpenScienSE)"
       years: [2022, 2021]
 
-    - role: General Chair
-      venue: Regional School of Software Engineering (ERES)
+    - role: "General Chair"
+      venue: "Regional School of Software Engineering (ERES)"
       years: [2023, 2021, 2020]
 
-    - role: General Chair
-      venue: Brazilian Conference on Software (CBSoft)
+    - role: "General Chair"
+      venue: "Brazilian Conference on Software (CBSoft)"
       years: [2016]
 
   international:
-    - role: Artifact Evaluator
-      venue: International Conference on Software Engineering (ICSE)
+    - role: "Artifact Evaluator"
+      venue: "International Conference on Software Engineering (ICSE)"
       years: [2025, 2024]
 
-    - role: Artifact Evaluator
-      venue: ACM International Conference on the Foundations of Software Engineering (FSE)
+    - role: "Artifact Evaluator"
+      venue: "ACM International Conference on the Foundations of Software Engineering (FSE)"
       years: [2025, 2024]
 
-    - role: TPC Member
-      venue: International Conference on Software Analysis, Evolution and Reengineering – RENE Track (SANER)
+    - role: "TPC Member"
+      venue: "International Conference on Software Analysis, Evolution and Reengineering – RENE Track (SANER)"
       years: [2025, 2024]
 
-    - role: TPC Member
-      venue: Workshop on Open Science Practices for Software Engineering (OpenScienSE)
+    - role: "TPC Member"
+      venue: "Workshop on Open Science Practices for Software Engineering (OpenScienSE)"
       years: [2025, 2024, 2023]
 
-    - role: TPC Member
-      venue: International Symposium on Open Collaboration (OpenSym)
+    - role: "TPC Member"
+      venue: "International Symposium on Open Collaboration (OpenSym)"
       years: [2024, 2022]
 
-    - role: TPC Member
-      venue: ACM International Systems and Software Product Line Conference (SPLC)
+    - role: "TPC Member"
+      venue: "ACM International Systems and Software Product Line Conference (SPLC)"
       years: [2025, 2024, 2023, 2022, 2021, 2020]
 
-    - role: TPC Member
-      venue: International Conference on Product-Focused Software Process Improvement (PROFES)
+    - role: "TPC Member"
+      venue: "International Conference on Product-Focused Software Process Improvement (PROFES)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018]
 
-    - role: TPC Member
-      venue: International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)
+    - role: "TPC Member"
+      venue: "International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018]
 
-    - role: TPC Member
-      venue: IEEE International Conference on Information Reuse and Integration (IRI)
+    - role: "TPC Member"
+      venue: "IEEE International Conference on Information Reuse and Integration (IRI)"
       years: [2020, 2019, 2018]
 
-    - role: TPC Member
-      venue: International Conference on Enterprise Information Systems (ICEIS)
+    - role: "TPC Member"
+      venue: "International Conference on Enterprise Information Systems (ICEIS)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014]
 
-    - role: TPC Member
-      venue: International Conference on Software Engineering and Knowledge Engineering (SEKE)
+    - role: "TPC Member"
+      venue: "International Conference on Software Engineering and Knowledge Engineering (SEKE)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012]
 
-    - role: TPC Member
-      venue: IEEE Frontiers in Education Conference (FIE)
+    - role: "TPC Member"
+      venue: "IEEE Frontiers in Education Conference (FIE)"
       years: [2025, 2024, 2020, 2019, 2018, 2017, 2016, 2015]
 
-    - role: TPC Member
-      venue: International Workshop on Software Language Engineering and Interoperability for Smart Systems (SLISW)
+    - role: "TPC Member"
+      venue: "International Workshop on Software Language Engineering and Interoperability for Smart Systems (SLISW)"
       years: [2018, 2017, 2016, 2015, 2014, 2013]
 
   national:
-    - role: TPC Member
-      venue: Brazilian Symposium on Information Systems (SBSI)
+    - role: "TPC Member"
+      venue: "Brazilian Symposium on Information Systems (SBSI)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019]
 
-    - role: TPC Member
-      venue: Brazilian Symposium on Software Engineering – Education Track (SBES)
+    - role: "TPC Member"
+      venue: "Brazilian Symposium on Software Engineering – Education Track (SBES)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 
-    - role: TPC Member
-      venue: Brazilian Symposium on Software Engineering – Research Track (SBES)
+    - role: "TPC Member"
+      venue: "Brazilian Symposium on Software Engineering – Research Track (SBES)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
 
-    - role: TPC Member
-      venue: Brazilian Symposium on Software Engineering – Innovative Ideas Track (SBES)
+    - role: "TPC Member"
+      venue: "Brazilian Symposium on Software Engineering – Innovative Ideas Track (SBES)"
       years: [2025, 2024, 2023, 2022, 2021, 2020]
 
-    - role: TPC Member
-      venue: Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)
+    - role: "TPC Member"
+      venue: "Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)"
       years: [2025, 2024, 2023, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 
-    - role: TPC Member
-      venue: Brazilian Symposium on Software Quality – Research Track (SBQS)
+    - role: "TPC Member"
+      venue: "Brazilian Symposium on Software Quality – Research Track (SBQS)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 
-    - role: TPC Member
-      venue: Brazilian Symposium on Software Quality – Education and Industry Experience Track (SBQS)
+    - role: "TPC Member"
+      venue: "Brazilian Symposium on Software Quality – Education and Industry Experience Track (SBQS)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019]
 
-    - role: TPC Member
-      venue: Brazilian Symposium on Software Quality – Industry Experience Report Track (SBQS)
+    - role: "TPC Member"
+      venue: "Brazilian Symposium on Software Quality – Industry Experience Report Track (SBQS)"
       years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
