@@ -10,7 +10,7 @@
     Brazil and Portugal'
   venue: ACM Transactions on Computing Education
   year: 2026
-  doi: ''
+  doi: 10.1145/3779309
   type: journal
   language: en
 - authors: OliveiraJr, Edson; Lolli, L. F.; Avila, G. N.; Mossini, S. A. G.
@@ -18,7 +18,7 @@
     in southern Brazil'
   venue: Forensic Sciences Research
   year: 2026
-  doi: ''
+  doi: DOI
   type: journal
   language: en
 - authors: Ferreira, V. E.; Cesaro, J. P. V.; Rosa, G.; OliveiraJr, E.; Leal, G. C.
@@ -27,7 +27,7 @@
     from a Multivocal Analysis of a Critical Incident'
   venue: Journal of Universal Computer Science
   year: 2026
-  doi: ''
+  doi: DOI
   type: journal
   language: en
 - authors: Bett, A. B. M.; Nepomuceno, T. S.; OliveiraJr, Edson; Baldassare, M. T.;
@@ -37,7 +37,7 @@
   venue: International Workshop on Methodological Issues with Empirical Studies in
     Software Engineering (WSESE@ICSE)
   year: 2026
-  doi: ''
+  doi: DOI
   type: conference
   language: en
 - authors: Menolli, A.; Coleti, T. A.; OliveiraJr, E.
@@ -82,7 +82,7 @@
   title: Review and Recommendations on How Ontologies Have Supported Digital Forensics
   venue: Forensic Science Review
   year: 2024
-  doi: ''
+  doi: DOI
   type: journal
   language: en
 - authors: Poltronieri, I.; Zorzo, A.; Silveira, M. B.; OliveiraJr, E.
@@ -114,7 +114,7 @@
     Teaching: a Survey in the Brazilian Paraná State'
   venue: Proceedings of the Ibero-American Conference on Software Engineering
   year: 2023
-  doi: ''
+  doi: DOI
   type: conference
   language: en
 - authors: Bettin, G.; Herculani, J. B.; Melo, A.; Andrade, L. C.; OliveiraJr, E.
@@ -146,7 +146,7 @@
   title: 'Digital Forensics Experimentation: Analysis and Recommendations'
   venue: Forensic Science Review
   year: 2022
-  doi: ''
+  doi: DOI
   type: journal
   language: en
 - authors: Felizardo, K. R.; Chavez, C. V. F. G.; Pereira, Roberto; OliveiraJr, Edson
@@ -323,7 +323,7 @@
   title: Empirical Study on Product Configuration and Traceability in UML-based Product-Lines
   venue: Proceedings of the Ibero-American Conference on Software Engineering
   year: 2020
-  doi: ''
+  doi: DOI
   type: conference
   language: en
 - authors: Silva, L. F.; OliveiraJr, E.
