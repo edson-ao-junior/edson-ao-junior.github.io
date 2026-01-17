@@ -200,3 +200,62 @@
   }
 }
 
+
+
+/* ===============================
+   Books
+   =============================== */
+
+.books-page {
+  font-size: 0.95rem;
+}
+
+.book-entry {
+  display: flex;
+  gap: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.book-cover img {
+  width: 130px;
+  height: auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.book-meta h2 {
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+}
+
+.book-subtitle {
+  font-size: 0.95rem;
+  font-style: italic;
+  margin-bottom: 0.4rem;
+}
+
+.book-authors {
+  font-size: 0.9rem;
+  margin-bottom: 0.6rem;
+}
+
+.book-abstract {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.book-doi {
+  font-size: 0.85rem;
+  margin-top: 0.4rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .book-entry {
+    flex-direction: column;
+  }
+
+  .book-cover img {
+    width: 160px;
+  }
+}
