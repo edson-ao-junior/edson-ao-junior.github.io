@@ -1,60 +1,81 @@
-.publication-list {
-  list-style: none;
-  padding-left: 0;
-}
-
-.publication-list li {
-  margin-bottom: 0.8em;
-}
-
-.pub-authors {
-  font-size: 0.95em;
-}
-
-.pub-title {
-  font-weight: 600;
-}
-
-.pub-venue {
-  font-style: italic;
-}
-
-
 /* ===============================
-   Publications
+   Publications – Global structure
    =============================== */
 
-/* Reduce font size only on Publications page */
+/* Wrapper: limits all styling to Publications page */
 .publications-page {
   font-size: 0.95rem;
 }
 
+/* ===============================
+   Headings
+   =============================== */
+
+/* Year */
 .publications-page h1 {
   font-size: 1.6rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.4rem;
 }
 
+/* Section titles */
 .publications-page h2 {
   font-size: 1.1rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
 }
 
-.publications-page li {
-  margin-bottom: 0.6em;
-  line-height: 1.4;
-}
-
+/* ===============================
+   Publication lists
+   =============================== */
 
 .publication-list {
   list-style: none;
   padding-left: 0;
+  margin-left: 0;
 }
 
-.publication-list li {
-  margin-bottom: 0.8em;
+/* Default publication item */
+.publications-page .publication-list li {
+  margin-bottom: 0.6em;
   line-height: 1.4;
 }
 
+/* ===============================
+   Journal highlighting (SUBTLE)
+   =============================== */
+
+/* Journals: slightly stronger visual weight */
+.publications-page .journal-list li,
+.publications-page .publication-list.journal li {
+  font-weight: 500;
+}
+
+/* Title emphasis for journals only */
+.publications-page .journal-list li strong,
+.publications-page .publication-list.journal li strong {
+  font-weight: 600;
+}
+
+/* Optional left accent bar (very subtle) */
+.publications-page .journal-list li {
+  border-left: 3px solid rgba(0, 0, 0, 0.08);
+  padding-left: 0.6em;
+}
+
+/* Conferences remain neutral */
+.publications-page .conference-list li {
+  font-weight: 400;
+  border-left: none;
+}
+
+/* ===============================
+   DOI styling
+   =============================== */
+
 .doi-icon {
-  width: 22px;          /* controla o tamanho real */
+  width: 22px;
   height: auto;
   vertical-align: middle;
   margin-left: 4px;
@@ -71,18 +92,29 @@
   margin-left: 4px;
 }
 
+/* ===============================
+   Language badge
+   =============================== */
 
-.quick-access {
-  margin-bottom: 1.5rem;
-  font-size: 0.95rem;
+.publications-page span[title="Publication in Portuguese"] {
+  margin-left: 4px;
+  font-size: 0.9em;
 }
 
-.quick-access a {
-  margin: 0 4px;
-  text-decoration: none;
-  font-weight: 500;
-}
+/* ===============================
+   Responsive fine-tuning
+   =============================== */
 
-.quick-access a:hover {
-  text-decoration: underline;
+@media (max-width: 768px) {
+  .publications-page {
+    font-size: 0.93rem;
+  }
+
+  .publications-page h1 {
+    font-size: 1.45rem;
+  }
+
+  .publications-page h2 {
+    font-size: 1.05rem;
+  }
 }
