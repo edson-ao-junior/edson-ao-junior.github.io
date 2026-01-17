@@ -1,27 +1,49 @@
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
-{% assign current_year = "" %}
+{% assign years = pubs | map: "year" | uniq %}
 
-{% for pub in pubs %}
-  {% if pub.year != current_year %}
-    {% assign current_year = pub.year %}
-    <h2>{{ current_year }}</h2>
+{% for y in years %}
+  <h1>{{ y }}</h1>
+
+  {% assign pubs_year = pubs | where: "year", y %}
+
+  {% assign journals = pubs_year | where: "type", "journal" %}
+  {% if journals.size > 0 %}
+    <h2>Journal Articles</h2>
     <ul class="publication-list">
-  {% endif %}
-
-  <li>
-    {{ pub.authors }}.
-    <strong>{{ pub.title }}</strong>.
-    <em>{{ pub.venue }}</em>.
-    {% if pub.doi %}
-      <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
-    {% endif %}
-    {% if pub.language == "pt" %}
-      <span title="Publication in Portuguese">🇧🇷</span>
-    {% endif %}
-  </li>
-
-  {% assign next = pubs[forloop.index] %}
-  {% if next == nil or next.year != current_year %}
+      {% for pub in journals %}
+        <li>
+          {{ pub.authors }}.
+          <strong>{{ pub.title }}</strong>.
+          <em>{{ pub.venue }}</em>.
+          {% if pub.doi %}
+            <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
+          {% endif %}
+          {% if pub.language == "pt" %}
+            <span title="Publication in Portuguese">🇧🇷</span>
+          {% endif %}
+        </li>
+      {% endfor %}
     </ul>
   {% endif %}
+
+  {% assign confs = pubs_year | where: "type", "conference" %}
+  {% if confs.size > 0 %}
+    <h2>Conference & Workshop Papers</h2>
+    <ul class="publication-list">
+      {% for pub in confs %}
+        <li>
+          {{ pub.authors }}.
+          <strong>{{ pub.title }}</strong>.
+          <em>{{ pub.venue }}</em>.
+          {% if pub.doi %}
+            <a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener noreferrer">DOI</a>.
+          {% endif %}
+          {% if pub.language == "pt" %}
+            <span title="Publication in Portuguese">🇧🇷</span>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
 {% endfor %}
