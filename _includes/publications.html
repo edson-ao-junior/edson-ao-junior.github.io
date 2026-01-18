@@ -39,15 +39,15 @@
 
   <div class="legend-item">
     <strong>ACM Badges:</strong>
-    <img src="{{ 'assets/img/badges/acm-available.jpeg' | relative_url }}"
+    <img src="{{ 'assets/img/badges/acm-available.jpg' | relative_url }}"
          title="ACM – Available">
-    <img src="{{ 'assets/img/badges/acm-functional.jpeg' | relative_url }}"
+    <img src="{{ 'assets/img/badges/acm-functional.jpg' | relative_url }}"
          title="ACM – Functional">
-    <img src="{{ 'assets/img/badges/acm-reusable.jpeg' | relative_url }}"
+    <img src="{{ 'assets/img/badges/acm-reusable.jpg' | relative_url }}"
          title="ACM – Reusable">
-    <img src="{{ 'assets/img/badges/acm-replicated.jpeg' | relative_url }}"
+    <img src="{{ 'assets/img/badges/acm-replicated.jpg' | relative_url }}"
          title="ACM – Replicated">
-    <img src="{{ 'assets/img/badges/acm-reproduced.jpeg' | relative_url }}"
+    <img src="{{ 'assets/img/badges/acm-reproduced.jpg' | relative_url }}"
          title="ACM – Reproduced">
   </div>
 
@@ -120,7 +120,7 @@
           {%- comment -%} BADGES ACM {%- endcomment -%}
           {% if pub.acm %}
             {% for badge in pub.acm %}
-              <img src="{{ 'assets/img/badges/acm-' | append: badge | append: '.jpeg' | relative_url }}"
+              <img src="{{ 'assets/img/badges/acm-' | append: badge | append: '.jpg' | relative_url }}"
                   class="badge-icon"
                   title="ACM – {{ badge | capitalize }}"
                   alt="ACM {{ badge }}">
