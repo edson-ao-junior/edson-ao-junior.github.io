@@ -7,11 +7,11 @@ main:
     url: /books/
   - title: "Service"
     url: /service/
-  - title: "Projects"
-    url: /projects/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Open Science"
-    url: /open-science/
-  - title: "CV"
-    url: /cv/
+  # - title: "Projects"
+  #   url: /projects/
+  # - title: "Teaching"
+  #   url: /teaching/
+  # - title: "Open Science"
+  #   url: /open-science/
+  # - title: "CV"
+  #   url: /cv/
