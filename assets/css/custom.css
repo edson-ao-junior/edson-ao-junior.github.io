@@ -296,3 +296,27 @@
   line-height: 1.45;
   color: #555;
 }
+
+
+.badge-icon {
+  width: 26px;
+  height: auto;
+  margin-left: 4px;
+  vertical-align: middle;
+}
+
+.artifact-badges {
+  margin-left: 6px;
+}
+
+.quick-access-legend {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.legend-item img {
+  vertical-align: middle;
+  margin-left: 4px;
+}

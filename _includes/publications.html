@@ -11,13 +11,46 @@
   {% endfor %}
 </div>
 <br>
-<div class="quick-access-legend">
+<!-- <div class="quick-access-legend">
   <img src="{{ 'assets/img/artifact.png' | relative_url }}"
        alt="Research Artifacts"
        class="artifact-icon"
        width="44"
        height="44">
   <span>Research Artifacts</span>
+</div> -->
+<div class="quick-access-legend">
+
+  <div class="legend-item">
+    <img src="{{ 'assets/img/artifact.png' | relative_url }}"
+         alt="Research Artifacts"
+         class="artifact-icon"
+         width="40">
+    <span>Research Artifacts</span>
+  </div>
+
+  <div class="legend-item">
+    <strong>CBSoft Badges:</strong>
+    <img src="{{ 'assets/img/badges/cbsoft-available.png' | relative_url }}"
+         title="CBSoft – Available">
+    <img src="{{ 'assets/img/badges/cbsoft-functional.png' | relative_url }}"
+         title="CBSoft – Functional">
+  </div>
+
+  <div class="legend-item">
+    <strong>ACM Badges:</strong>
+    <img src="{{ 'assets/img/badges/acm-available.jpeg' | relative_url }}"
+         title="ACM – Available">
+    <img src="{{ 'assets/img/badges/acm-functional.jpeg' | relative_url }}"
+         title="ACM – Functional">
+    <img src="{{ 'assets/img/badges/acm-reusable.jpeg' | relative_url }}"
+         title="ACM – Reusable">
+    <img src="{{ 'assets/img/badges/acm-replicated.jpeg' | relative_url }}"
+         title="ACM – Replicated">
+    <img src="{{ 'assets/img/badges/acm-reproduced.jpeg' | relative_url }}"
+         title="ACM – Reproduced">
+  </div>
+
 </div>
 
 <hr>
@@ -73,6 +106,27 @@
                    height="33">
             </a>
           {% endif %}
+
+          {%- comment -%} BADGES CBSoft {%- endcomment -%}
+          {% if pub.cbsoft %}
+            {% for badge in pub.cbsoft %}
+              <img src="{{ 'assets/img/badges/cbsoft-' | append: badge | append: '.png' | relative_url }}"
+                  class="badge-icon"
+                  title="CBSoft – {{ badge | capitalize }}"
+                  alt="CBSoft {{ badge }}">
+            {% endfor %}
+          {% endif %}
+
+          {%- comment -%} BADGES ACM {%- endcomment -%}
+          {% if pub.acm %}
+            {% for badge in pub.acm %}
+              <img src="{{ 'assets/img/badges/acm-' | append: badge | append: '.jpeg' | relative_url }}"
+                  class="badge-icon"
+                  title="ACM – {{ badge | capitalize }}"
+                  alt="ACM {{ badge }}">
+            {% endfor %}
+          {% endif %}
+
 
           {% if pub.language == "pt" %}
             <span title="Publication in Portuguese">🇧🇷</span>
