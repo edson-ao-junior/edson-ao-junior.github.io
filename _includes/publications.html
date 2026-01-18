@@ -3,14 +3,14 @@
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 {% assign years = pubs | map: "year" | uniq %}
 
-{%- comment -%} QUICK ACCESS POR ANO {%- endcomment -%}
+<!-- {%- comment -%} QUICK ACCESS POR ANO {%- endcomment -%}
 <div class="quick-access">
   <strong>Quick access:</strong>
   {% for y in years %}
     <a href="#year-{{ y }}">{{ y }}</a>{% unless forloop.last %},{% endunless %}
   {% endfor %}
 </div>
-<br>
+<br> -->
 <!-- <div class="quick-access-legend">
   <img src="{{ 'assets/img/artifact.png' | relative_url }}"
        alt="Research Artifacts"
