@@ -187,6 +187,31 @@
             </a>
           {% endif %}
 
+          {%- comment -%} BADGES CBSoft {%- endcomment -%}
+          {% if pub.cbsoft %}
+            {% for badge in pub.cbsoft %}
+              <img src="{{ 'assets/img/badges/cbsoft-' | append: badge | append: '.png' | relative_url }}"
+                  class="badge-icon"
+                  title="CBSoft – {{ badge | capitalize }}"
+                  alt="CBSoft {{ badge }}"
+                  width="22"
+                  height="22">
+            {% endfor %}
+          {% endif %}
+
+          {%- comment -%} BADGES ACM {%- endcomment -%}
+          {% if pub.acm %}
+            {% for badge in pub.acm %}
+              <img src="{{ 'assets/img/badges/acm-' | append: badge | append: '.jpg' | relative_url }}"
+                  class="badge-icon"
+                  title="ACM – {{ badge | capitalize }}"
+                  alt="ACM {{ badge }}"
+                  width="22"
+                  height="22">
+            {% endfor %}
+          {% endif %}
+
+
           {% if pub.language == "pt" %}
             <span title="Publication in Portuguese">🇧🇷</span>
           {% endif %}
