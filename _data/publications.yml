@@ -6,6 +6,9 @@
   type: conference
   language: en
   artifact: "https://doi.org/10.5281/zenodo.11114264"
+  cbsoft:
+    - available
+    - functional
 - authors: Ferreira, V. E.; Cesaro, J. P. V.; Rosa, G.; OliveiraJr, E.; Leal, G. C. L.; Balancieri, R.
   title: "CrowdStrike Blackout: Impacts, Technical Root Causes, and Lessons Learned from a Multivocal Analysis of a Critical\
     \ Incident"
@@ -14,6 +17,12 @@
   doi: DOI
   type: journal
   language: en
+  acm:
+    - available
+    - functional
+    - reusable    
+    - replicated
+    - reproduced
 - authors: OliveiraJr, Edson; Canedo, E. D.; Brito, I. S.
   title: "Understanding Education and Professional Practice of UML: Insights from Brazil and Portugal"
   venue: ACM Transactions on Computing Education
