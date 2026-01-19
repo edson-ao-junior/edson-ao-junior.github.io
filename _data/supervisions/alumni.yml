@@ -1,6 +1,6 @@
 - id: s001
   name: "Fulano de Tal"
-  level: "IC"
+  level: "Undergraduate"
   title: "Empirical Analysis of Test Flakiness"
   summary: "Empirical study on flaky tests in CI pipelines and strategies for detection and mitigation."
   start: "03/2022"
