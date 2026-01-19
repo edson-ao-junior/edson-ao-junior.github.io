@@ -320,3 +320,18 @@
   vertical-align: middle;
   margin-left: 4px;
 }
+
+.supervision-title {
+  margin-top: 0.2em;
+}
+
+.supervision-summary {
+  margin-top: 0.2em;
+}
+
+.supervision-dates {
+  display: block;
+  margin-top: 0.2em;
+  font-size: 0.9em;
+  color: #666;
+}

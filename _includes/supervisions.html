@@ -1,4 +1,4 @@
-{% assign levels = "IC,IT,TCC,MSc,PhD" | split: "," %}
+{% assign levels = "Undergraduate,IC,IT,TCC,MSc,PhD" | split: "," %}
 
 <h1>Current Supervisions</h1>
 
@@ -9,10 +9,18 @@
     <ul class="supervision-list">
       {% for s in group %}
         <li>
-          <strong>{{ s.name }}</strong> — <em>{{ s.title }}</em><br>
-          {{ s.summary }}<br>
+          <strong>{{ s.name }}</strong><br>
+
+          <div class="supervision-title">
+            <em>{{ s.title }}</em>
+          </div>
+
+          <div class="supervision-summary">
+            {{ s.summary }}
+          </div>
+
           <span class="supervision-dates">
-            {{ s.start }} – {{ s.end }}
+            {{ s.start }} – present
           </span>
         </li>
       {% endfor %}
@@ -31,8 +39,16 @@
     <ul class="supervision-list">
       {% for s in group %}
         <li>
-          <strong>{{ s.name }}</strong> — <em>{{ s.title }}</em><br>
-          {{ s.summary }}<br>
+          <strong>{{ s.name }}</strong><br>
+
+          <div class="supervision-title">
+            <em>{{ s.title }}</em>
+          </div>
+
+          <div class="supervision-summary">
+            {{ s.summary }}
+          </div>
+
           <span class="supervision-dates">
             {{ s.start }} – {{ s.end }}
           </span>
