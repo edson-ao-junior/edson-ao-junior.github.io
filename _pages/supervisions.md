@@ -6,4 +6,6 @@ author: "Edson OliveiraJr"
 author_profile: true
 ---
 
-{% include supervisions.html %}
+<div markdown="0">
+  {% include supervisions.html %}
+</div>
