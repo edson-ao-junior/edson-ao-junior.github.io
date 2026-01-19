@@ -1,0 +1,43 @@
+{% assign levels = "IC,IT,TCC,MSc,PhD" | split: "," %}
+
+<h1>Current Supervisions</h1>
+
+{% for lvl in levels %}
+  {% assign group = site.data.supervisions.current | where: "level", lvl %}
+  {% if group.size > 0 %}
+    <h2>{{ lvl }}</h2>
+    <ul class="supervision-list">
+      {% for s in group %}
+        <li>
+          <strong>{{ s.name }}</strong> — <em>{{ s.title }}</em><br>
+          {{ s.summary }}<br>
+          <span class="supervision-dates">
+            {{ s.start }} – {{ s.end }}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}
+
+<hr>
+
+<h1>Alumni (Completed Supervisions)</h1>
+
+{% for lvl in levels %}
+  {% assign group = site.data.supervisions.alumni | where: "level", lvl %}
+  {% if group.size > 0 %}
+    <h2>{{ lvl }}</h2>
+    <ul class="supervision-list">
+      {% for s in group %}
+        <li>
+          <strong>{{ s.name }}</strong> — <em>{{ s.title }}</em><br>
+          {{ s.summary }}<br>
+          <span class="supervision-dates">
+            {{ s.start }} – {{ s.end }}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}

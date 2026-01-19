@@ -7,6 +7,8 @@ main:
     url: /books/
   - title: "Service"
     url: /service/
+  - title: "Supervisions"
+    url: /supervisions/
   # - title: "Projects"
   #   url: /projects/
   # - title: "Teaching"
