@@ -380,3 +380,36 @@
 .book-toc a:hover {
   text-decoration: underline;
 }
+
+/* ===============================
+   Academic Appointments page
+   =============================== */
+
+.appointments-page h2 {
+  margin-top: 1.2em;
+  padding-top: 0.4em;
+  border-top: 1px solid #e6e6e6;
+}
+
+.appointments-page h3 {
+  margin-top: 0.8em;
+}
+
+.appointments-page p {
+  margin-bottom: 0.9em;
+}
+
+.appointments-page ul {
+  margin-top: 0.6em;
+  padding-left: 1.1em;
+}
+
+.appointments-page li {
+  margin-bottom: 0.8em;
+  line-height: 1.45;
+}
+
+/* Make role titles stand out a bit without looking like a callout */
+.appointments-page strong {
+  font-weight: 600;
+}
