@@ -40,6 +40,14 @@ classes: books-page
       </p>
     {% endif %}
 
+    {% if book.toc and book.toc != "" %}
+    <p class="book-toc">
+      <a href="{{ book.toc }}" target="_blank" rel="noopener">
+        Table of Contents (TOC)
+      </a>
+    </p>
+    {% endif %}  
+
     <p class="book-abstract">
       {{ book.abstract }}
     </p>
