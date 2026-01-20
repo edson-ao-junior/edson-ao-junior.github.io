@@ -13,8 +13,8 @@ main:
     url: /service/
   - title: "Supervisions"
     url: /supervisions/    
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Projects"
+    url: /projects/
   - title: "Teaching"
     url: /teaching/
   # - title: "Open Science"
