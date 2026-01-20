@@ -368,3 +368,15 @@
   background-color: #666;
   border-radius: 50%;
 }
+
+.book-toc {
+  font-size: 0.95em;
+}
+
+.book-toc a {
+  text-decoration: none;
+}
+
+.book-toc a:hover {
+  text-decoration: underline;
+}
