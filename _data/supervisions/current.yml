@@ -2,6 +2,30 @@
 # MASTER'S STUDENTS (MSc)
 # =========================
 
+- id: s017
+  name: "Alerson Barbosa de Oliveira"
+  level: "MSc"
+  title: "Prompt Engineering for Optimizing the Sharing of Software Engineering Research Artifacts Using LLMs"
+  summary: "Investigation of pedagogical approaches, curricula, and methodologies for teaching Digital Forensics in Computer Science programs."
+  start: "03/2026"
+  end: "—"
+
+- id: s018
+  name: "Filipe A. Santana"
+  level: "MSc"
+  title: "Dublin Core-based Metadata Profiles for Controlled Experiments of Software Engineering"
+  summary: "Investigation of pedagogical approaches, curricula, and methodologies for teaching Digital Forensics in Computer Science programs."
+  start: "03/2026"
+  end: "—"
+
+- id: s019
+  name: "Fernando Silva Grande"
+  level: "MSc"
+  title: "Classification of Controlled Experiment Protocols in Software Engineering Using Natural Language Processing and Machine Learning"
+  summary: "Investigation of pedagogical approaches, curricula, and methodologies for teaching Digital Forensics in Computer Science programs."
+  start: "03/2026"
+  end: "—"
+
 - id: s020
   name: "Carlos Eduardo de Albuquerque Moreno"
   level: "MSc"
