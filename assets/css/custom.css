@@ -413,3 +413,15 @@
 .appointments-page strong {
   font-weight: 600;
 }
+
+
+.appointments-page hr {
+  margin: 1.2em 0;
+}
+
+.appointments-page h2 + p {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 0.9em 1em;
+}
