@@ -173,3 +173,21 @@
   summary: ""
   start: "01/2011"
   end: "12/2013"
+
+# PhD
+
+- id: s201
+  name: "Andre Felipe Ribeiro Cordeiro"
+  level: "PhD"
+  title: "Controlled Experimentation and Quasi-Experimentation in Software Engineering Supported by a Lifecycle Model and a Data Management Plan"
+  summary: ""
+  start: "01/2021"
+  end: "12/2025"
+
+- id: s202
+  name: "Luciano Anisio Garcia (Co-Supervision with main supervision of Prof. Dr. Marcelo Morandini EACH/USP)"
+  level: "PhD"
+  title: "Proposition of M-FATE: A Methodology for Automating Task Evaluation"
+  summary: ""
+  start: "01/2021"
+  end: "12/2025"
