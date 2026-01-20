@@ -11,6 +11,8 @@ main:
     url: /service/
   - title: "Supervisions"
     url: /supervisions/
+  - title: "Appointments & Leadership"
+    url: /academic-appointments/
   # - title: "Projects"
   #   url: /projects/
   # - title: "Teaching"
