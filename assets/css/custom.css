@@ -426,3 +426,22 @@
   padding: 0.9em 1em;
 }
 
+/* ===============================
+   Teaching page
+   =============================== */
+
+.teaching-page h2 {
+  margin-top: 1.3em;
+  padding-top: 0.4em;
+  border-top: 1px solid #e6e6e6;
+}
+
+.teaching-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.teaching-list li {
+  margin-bottom: 0.8em;
+  line-height: 1.45;
+}
