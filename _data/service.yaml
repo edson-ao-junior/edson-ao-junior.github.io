@@ -104,9 +104,13 @@ conferences:
       venue: "Regional School of Software Engineering (ERES)"
       years: [2023, 2021, 2020]
 
-    - role: "General Chair"
+    - role: "General Co-Chair"
       venue: "Brazilian Conference on Software (CBSoft)"
       years: [2016]
+
+    - role: "General Co-Chair"
+      venue: "XII Regional School of Database Systems (ERBD)"
+      years: [2016]      
 
   international:
     - role: "Artifact Evaluator"
