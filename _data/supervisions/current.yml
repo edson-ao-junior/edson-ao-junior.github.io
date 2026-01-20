@@ -5,7 +5,7 @@
 - id: s020
   name: "Carlos Eduardo de Albuquerque Moreno"
   level: "MSc"
-  title: "Ensino de Forense Digital"
+  title: "Penetration Testing on the Network Infrastructure of the State University of Maringá"
   summary: "Investigation of pedagogical approaches, curricula, and methodologies for teaching Digital Forensics in Computer Science programs."
   start: "01/2024"
   end: "—"
@@ -13,23 +13,15 @@
 - id: s021
   name: "Vinicius E. Ferreira"
   level: "MSc"
-  title: "Educação e Treinamento em Cybersecurity Awareness"
+  title: "Cybersecurity Education in Higher Education Programs"
   summary: "Study on education and training strategies to improve cybersecurity awareness in academic and professional contexts."
-  start: "01/2024"
-  end: "—"
-
-- id: s022
-  name: "Gabriela S. Rosa"
-  level: "MSc"
-  title: "Impacto da Inteligência Artificial em Práticas de Ciência Aberta"
-  summary: "Analysis of how artificial intelligence techniques influence open science practices, transparency, and research workflows."
   start: "01/2024"
   end: "—"
 
 - id: s023
   name: "Ana B. M. Bett"
   level: "MSc"
-  title: "Um Panorama de Ciência Aberta sobre Estudos Secundários de Engenharia de Software"
+  title: "A Registered Report Template for Software Engineering Controlled Experiments"
   summary: "Mapping and analysis of open science practices adopted in secondary studies within Software Engineering."
   start: "01/2024"
   end: "—"
@@ -37,7 +29,7 @@
 - id: s024
   name: "Mariana Santos de Jesus Alexandre"
   level: "MSc"
-  title: "Modelo Conceitual de Indicadores-Chave de Desempenho para Empresas Brasileiras de Software"
+  title: "A Catalog of Key Performance Indicators in the Context of Software Development in Brazil"
   summary: "Proposal and empirical evaluation of a conceptual model of KPIs tailored to Brazilian software development companies."
   start: "01/2023"
   end: "—"
@@ -45,7 +37,7 @@
 - id: s025
   name: "Elaine Ignacio Moreira"
   level: "MSc"
-  title: "Modelo Conceitual de Requisitos para Ferramentas de Forense Digital"
+  title: "A Reference Architecture for Mobile Forensics Tools"
   summary: "Definition of conceptual requirements to support the design and evaluation of digital forensic tools."
   start: "01/2021"
   end: "—"
@@ -57,15 +49,15 @@
 - id: s030
   name: "Cristiane Estevo da Silva"
   level: "PhD"
-  title: "Modelo Conceitual para o Compartilhamento de Artefatos de Pesquisa em Engenharia de Software"
+  title: "Sharing of Software Engineering Research Artifacts"
   summary: "Conceptual modeling to support sharing, reuse, and transparency of research artifacts in Software Engineering."
-  start: "01/2025"
+  start: "03/2025"
   end: "—"
 
 - id: s031
   name: "Thiago José da Silva"
   level: "PhD"
-  title: "Experimentação Sistemática em Forense Digital"
+  title: "Identification of Controlled Experiment Protocols in Digital Forensics"
   summary: "Investigation of systematic experimentation methods to improve rigor and reproducibility in Digital Forensics."
   start: "01/2024"
   end: "—"
@@ -73,15 +65,15 @@
 - id: s032
   name: "Carlos Danilo Luz"
   level: "PhD"
-  title: "Framework de Apoio ao Ensino de Engenharia de Software Experimental"
+  title: "A Framework to Support the Teaching of Controlled Experiments in Software Engineering"
   summary: "Design and evaluation of a framework to support teaching and learning of experimental Software Engineering."
   start: "01/2022"
   end: "—"
 
 - id: s033
-  name: "Ana Claudia Maciel"
+  name: "Ana Claudia Maciel (Co-Supervision with main supervision of Prof. Igor Steinmacher)"
   level: "PhD"
-  title: "Análise do Papel da GitHub Discussions em Software Livre"
+  title: "Analysis of the Role of GitHub Discussions in Open Source Software"
   summary: "Empirical analysis of GitHub Discussions as a communication and collaboration mechanism in open-source software projects."
   start: "01/2021"
   end: "—"
@@ -91,9 +83,9 @@
 # =========================
 
 - id: s040
-  name: "Filipe Amadeu Santana"
+  name: "Sophia Freire Aparicio Oliveira"
   level: "Undergraduate"
-  title: "Perfil de Metadados para Reprodutibilidade de Experimentos em Engenharia de Software"
+  title: "A Metadata Profile for the Reproducibility of Controlled Experiments in Software Engineering"
   summary: "Definition of a metadata profile to support reproducibility and transparency of controlled experiments in Software Engineering."
   start: "01/2025"
   end: "—"
