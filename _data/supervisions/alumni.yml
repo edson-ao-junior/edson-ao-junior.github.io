@@ -1,3 +1,24 @@
+# PhD
+
+- id: s201
+  name: "Andre Felipe Ribeiro Cordeiro"
+  level: "PhD"
+  title: "Controlled Experimentation and Quasi-Experimentation in Software Engineering Supported by a Lifecycle Model and a Data Management Plan"
+  summary: ""
+  start: "01/2021"
+  end: "08/2025"
+
+- id: s202
+  name: "Luciano Anisio Garcia (Co-Supervision with main supervision of Prof. Dr. Marcelo Morandini EACH/USP)"
+  level: "PhD"
+  title: "Proposition of M-FATE: A Methodology for Automating Task Evaluation"
+  summary: ""
+  start: "01/2021"
+  end: "10/2025"
+
+
+# MSc
+
 - id: s101
   name: "Thiago José da Silva"
   level: "MSc"
@@ -174,20 +195,244 @@
   start: "01/2011"
   end: "12/2013"
 
-# PhD
+# Undergraduate
 
-- id: s201
+- id: s301
+  name: "Filipe Amadeu Santana"
+  level: "Undergraduate"
+  title: "A Dublin Core-Based Metadata Schema and Editor for Controlled Software Engineering Experiments"
+  summary: ""
+  start: "01/2025"
+  end: "12/2025"
+
+- id: s302
+  name: "Joao Ricardo de Melo"
+  level: "Undergraduate"
+  title: "Contributions of Artificial Intelligence to Open Science Practices"
+  summary: ""
+  start: "01/2025"
+  end: "12/2025"
+
+- id: s303
+  name: "Fernando Silva Grande"
+  level: "Undergraduate"
+  title: "A Web Portal for Teaching and Practicing Controlled Software Engineering Experiments – Phase 2"
+  summary: ""
+  start: "01/2025"
+  end: "12/2025"
+
+- id: s304
+  name: "Juliana Cristina de Jesus Galdino"
+  level: "Undergraduate"
+  title: "Requirements Engineering for an App Supporting the Fight Against Femicide from a Forensic Perspective"
+  summary: ""
+  start: "01/2025"
+  end: "12/2025"
+
+- id: s305
+  name: "Yasmin Brambila Danielli"
+  level: "Undergraduate"
+  title: "A Conceptual Model of Femicide in the Context of Forensic Psychology"
+  summary: ""
+  start: "01/2024"
+  end: "12/2024"
+
+- id: s306
+  name: "Yasmin Brambila Danielli"
+  level: "Undergraduate"
+  title: "Mapping the Adherence of Digital Forensics Tools to a Conceptual Model of Femicide"
+  summary: ""
+  start: "01/2024"
+  end: "12/2024"
+
+- id: s307
+  name: "Filipe Amadeu Santana"
+  level: "Undergraduate"
+  title: "A Metadata Standard for Controlled Experiments and Quasi-Experiments in Software Engineering"
+  summary: ""
+  start: "01/2023"
+  end: "12/2023"
+
+- id: s308
+  name: "Ana Heloisa Mazur"
+  level: "Undergraduate"
+  title: "Empirical Evaluation of the ExperDF-Onto Ontology Using SPARQL Queries in Digital Forensics"
+  summary: ""
+  start: "01/2023"
+  end: "12/2023"
+
+- id: s309
+  name: "Filipe Amadeu Santana"
+  level: "Undergraduate"
+  title: "A Computational Solution for Processing Experimental Metadata in Software Engineering"
+  summary: ""
+  start: "01/2023"
+  end: "12/2023"
+
+- id: s310
+  name: "Fernando Silva Grande"
+  level: "Undergraduate"
+  title: "A Web Portal for Teaching and Practicing Controlled Software Engineering Experiments – Phase 1"
+  summary: ""
+  start: "01/2023"
+  end: "12/2023"
+
+- id: s311
+  name: "Jose Rafael Silva Hermoso"
+  level: "Undergraduate"
+  title: "Interoperability of the SMartyModeling Environment with Feature Modeling Tools – Phase 2"
+  summary: ""
+  start: "01/2022"
+  end: "12/2022"
+
+- id: s312
+  name: "Henrique Fonseca Marques Luiz"
+  level: "Undergraduate"
+  title: "Design and Implementation of a Feature Modeling Module for the SMartyModeling Environment"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s313
+  name: "Pedro Henrique de Melo Costa"
+  level: "Undergraduate"
+  title: "A Comparative Analysis of Repositories for Sharing Open Data from Software Engineering Experiments"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s314
+  name: "Natalia Ramalho Lopes"
+  level: "Undergraduate"
+  title: "Decision Support System for Teaching Load Distribution – Phase 2"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s315
+  name: "Vinicius de Oliveira Monteiro"
+  level: "Undergraduate"
+  title: "SMartyModeling-Trace: A Module for Artifact Traceability in UML-Based Software Product Lines"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s316
+  name: "Amanda Tiemi Fukao"
+  level: "Undergraduate"
+  title: "Literature Analysis on Requirements Engineering Applied to Digital Forensics Tools"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s317
+  name: "Pedro Henrique de Melo Costa"
+  level: "Undergraduate"
+  title: "Specification of a Trusted Data Repository for Software Engineering Experiments"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s318
+  name: "Jose Rafael Silva Hermoso"
+  level: "Undergraduate"
+  title: "Interoperability of the SMartyModeling Environment with Feature Modeling Tools"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s319
+  name: "Jose Vitor Reggiani Galbardi"
+  level: "Undergraduate"
+  title: "EgressoUEM – Graduate Studies Module: An App for Managing UEM Alumni"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s320
+  name: "Renan Augusto Leonel"
+  level: "Undergraduate"
+  title: "SMartyRequirements: A Requirements Module for the SMartyModeling Environment"
+  summary: ""
+  start: "01/2020"
+  end: "12/2020"
+
+- id: s321
+  name: "Leandro Flores da Silva"
+  level: "Undergraduate"
+  title: "SMartyAnalyzer: An Environment for Applying SMM Metrics in Software Product Line Architecture Evaluation"
+  summary: ""
+  start: "01/2017"
+  end: "12/2017"
+
+- id: s322
+  name: "Mateus Hideaki Taroda"
+  level: "Undergraduate"
+  title: "SMartyCheckTool: A Tool for Detecting and Removing Defects in SMarty Software Product Line Models"
+  summary: ""
+  start: "01/2017"
+  end: "12/2017"
+
+- id: s323
+  name: "Lailson Miranda Tofanelli"
+  level: "Undergraduate"
+  title: "Specification of Software Product Line Architecture Metrics Using the Structured Metrics Metamodel"
+  summary: ""
+  start: "01/2016"
+  end: "12/2016"
+
+- id: s324
+  name: "Fernando Leite Todão"
+  level: "Undergraduate"
+  title: "Identification and Mapping of Architectural Styles, Patterns, and Variability in Systems of Systems"
+  summary: ""
+  start: "01/2016"
+  end: "12/2016"
+
+- id: s325
+  name: "Mateus Hideaki Taroda"
+  level: "Undergraduate"
+  title: "Decision Support System for Teaching Load Distribution"
+  summary: ""
+  start: "01/2016"
+  end: "12/2016"
+
+- id: s326
+  name: "Filipe Gomes Genu"
+  level: "Undergraduate"
+  title: "Quality Evaluation of Software Product Line Experiments"
+  summary: ""
+  start: "01/2015"
+  end: "12/2015"
+
+- id: s327
+  name: "Luiz Toshimitsu Nakahara Junior"
+  level: "Undergraduate"
+  title: "An Automated Module for Generating Java Source Code for Software Product Lines from UML Models with Variability"
+  summary: ""
+  start: "01/2015"
+  end: "12/2015"
+
+- id: s328
   name: "Andre Felipe Ribeiro Cordeiro"
-  level: "PhD"
-  title: "Controlled Experimentation and Quasi-Experimentation in Software Engineering Supported by a Lifecycle Model and a Data Management Plan"
+  level: "Undergraduate"
+  title: "Study and Application of Metrics for Software Product Line Architecture Evaluation in the SystEM-Env Experimental Environment"
   summary: ""
-  start: "01/2021"
-  end: "12/2025"
+  start: "01/2014"
+  end: "12/2014"
 
-- id: s202
-  name: "Luciano Anisio Garcia (Co-Supervision with main supervision of Prof. Dr. Marcelo Morandini EACH/USP)"
-  level: "PhD"
-  title: "Proposition of M-FATE: A Methodology for Automating Task Evaluation"
+- id: s329
+  name: "Lailson Miranda Tofanelli"
+  level: "Undergraduate"
+  title: "Computational Support for Variability Management with CVL in Software Product Lines"
   summary: ""
-  start: "01/2021"
-  end: "12/2025"
+  start: "01/2014"
+  end: "12/2014"
+
+- id: s330
+  name: "Andre Felipe Ribeiro Cordeiro"
+  level: "Undergraduate"
+  title: "Planning Module of the SystEM-Env Experimental Environment for Software Product Line Evaluation"
+  summary: ""
+  start: "01/2013"
+  end: "12/2013"
