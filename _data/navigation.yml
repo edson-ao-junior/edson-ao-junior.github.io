@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Academic Background"
+    url: /academic-background/
   - title: "Publications"
     url: /publications/
   - title: "Books and Chapters"

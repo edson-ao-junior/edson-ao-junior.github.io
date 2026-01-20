@@ -335,3 +335,36 @@
   font-size: 0.9em;
   color: #666;
 }
+
+.timeline {
+  margin-top: 1.5em;
+  border-left: 3px solid #ddd;
+  padding-left: 1em;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.2em;
+}
+
+.timeline-year {
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.2em;
+  display: block;
+}
+
+.timeline-content {
+  padding-left: 0.5em;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -0.55em;
+  top: 0.4em;
+  width: 10px;
+  height: 10px;
+  background-color: #666;
+  border-radius: 50%;
+}

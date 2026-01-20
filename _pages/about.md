@@ -8,6 +8,8 @@ author_profile: true
 
 I am **Edson OliveiraJr**, Associate Professor of Software Engineering at the **State University of Maringá (UEM), Maringá-PR, Brazil**, where I am affiliated with undergraduate and graduate programs in Computer Science.
 
+I hold a **PhD in Computer Science** and have conducted **postdoctoral and sabbatical research** in software engineering and digital forensics-related topics.
+
 My research agenda is centered on **Empirical Software Engineering**, with strong connections to **Open Science**, **Reproducibility**, and **Digital Forensics Experimentation**. I investigate how empirical methods, particularly **controlled experiments and quasi-experiments** can be systematically designed, executed, documented, and evaluated to improve the rigor, reliability and transparency of scientific evidence.
 
 A significant part of my work focuses on **research artifacts and metadata**, including experimental protocols, datasets, analysis scripts, conceptual models, and ontologies. I am especially interested in how **metadata standards, ontologies, and provenance models** can support experiment reproducibility, auditability, and long-term reuse across Software Engineering and Digital Forensics research.
