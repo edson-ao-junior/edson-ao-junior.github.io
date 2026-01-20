@@ -2,6 +2,14 @@
 # MASTER'S STUDENTS (MSc)
 # =========================
 
+- id: s019
+  name: "Fernando Silva Grande"
+  level: "MSc"
+  title: "Classification of Controlled Experiment Protocols in Software Engineering Using Natural Language Processing and Machine Learning"
+  summary: "Investigation of pedagogical approaches, curricula, and methodologies for teaching Digital Forensics in Computer Science programs."
+  start: "03/2026"
+  end: "—"
+
 - id: s017
   name: "Alerson Barbosa de Oliveira"
   level: "MSc"
@@ -14,14 +22,6 @@
   name: "Filipe A. Santana"
   level: "MSc"
   title: "Dublin Core-based Metadata Profiles for Controlled Experiments of Software Engineering"
-  summary: "Investigation of pedagogical approaches, curricula, and methodologies for teaching Digital Forensics in Computer Science programs."
-  start: "03/2026"
-  end: "—"
-
-- id: s019
-  name: "Fernando Silva Grande"
-  level: "MSc"
-  title: "Classification of Controlled Experiment Protocols in Software Engineering Using Natural Language Processing and Machine Learning"
   summary: "Investigation of pedagogical approaches, curricula, and methodologies for teaching Digital Forensics in Computer Science programs."
   start: "03/2026"
   end: "—"
@@ -95,7 +95,7 @@
   end: "—"
 
 - id: s033
-  name: "Ana Claudia Maciel (Co-Supervision with main supervision of Prof. Igor Steinmacher)"
+  name: "Ana Claudia Maciel (Co-Supervision with main supervision of Prof. Dr. Igor Steinmacher)"
   level: "PhD"
   title: "Analysis of the Role of GitHub Discussions in Open Source Software"
   summary: "Empirical analysis of GitHub Discussions as a communication and collaboration mechanism in open-source software projects."
@@ -107,9 +107,19 @@
 # =========================
 
 - id: s040
-  name: "Sophia Freire Aparicio Oliveira"
+  name: "Sophia Freire Aparicio Oliveira (Co-supervised by Prof. Dr. André F. R. Cordeiro)"
   level: "Undergraduate"
   title: "A Metadata Profile for the Reproducibility of Controlled Experiments in Software Engineering"
   summary: "Definition of a metadata profile to support reproducibility and transparency of controlled experiments in Software Engineering."
   start: "01/2025"
   end: "—"
+
+- id: s041
+  name: "Guilherme Jucoski da Silva (Co-supervised by Prof. Dr. André F. R. Cordeiro)"
+  level: "Undergraduate"
+  title: "A Tool for Conducting Controlled Experiments in Software Engineering"
+  summary: "Definition of a metadata profile to support reproducibility and transparency of controlled experiments in Software Engineering."
+  start: "01/2025"
+  end: "—"
+
+  
