@@ -1,11 +1,39 @@
 {% assign levels = "PhD,MSc,Undergraduate" | split: "," %}
 
-<h1>Current Supervisions</h1>
+<!-- ========================= -->
+<!-- QUICK ACCESS -->
+<!-- ========================= -->
+
+<div class="quick-access">
+  <strong>Quick access:</strong>
+  <br>
+  <span>
+    <strong>Current Supervisions:</strong>
+    <a href="#current-phd">PhD</a> |
+    <a href="#current-msc">MSc</a> |
+    <a href="#current-undergraduate">Undergraduate</a>
+  </span>
+  <br>
+  <span>
+    <strong>Alumni:</strong>
+    <a href="#alumni-phd">PhD</a> |
+    <a href="#alumni-msc">MSc</a> |
+    <a href="#alumni-undergraduate">Undergraduate</a>
+  </span>
+</div>
+
+<hr>
+
+<!-- ========================= -->
+<!-- CURRENT SUPERVISIONS -->
+<!-- ========================= -->
+
+<h1 id="current">Current Supervisions</h1>
 
 {% for lvl in levels %}
   {% assign group = site.data.supervisions.current | where: "level", lvl %}
   {% if group.size > 0 %}
-    <h2>{{ lvl }}</h2>
+    <h2 id="current-{{ lvl | downcase }}">{{ lvl }}</h2>
     <ul class="supervision-list">
       {% for s in group %}
         <li>
@@ -14,10 +42,6 @@
           <div class="supervision-title">
             <em><strong>Topic:</strong> {{ s.title }}</em>
           </div>
-
-          <!-- <div class="supervision-summary">
-            <strong>Summary:</strong> {{ s.summary }}
-          </div> -->
 
           <span class="supervision-dates">
             <strong>Start:</strong> {{ s.start }}
@@ -30,12 +54,16 @@
 
 <hr>
 
-<h1>Alumni (Completed Supervisions)</h1>
+<!-- ========================= -->
+<!-- ALUMNI -->
+<!-- ========================= -->
+
+<h1 id="alumni">Alumni (Completed Supervisions)</h1>
 
 {% for lvl in levels %}
   {% assign group = site.data.supervisions.alumni | where: "level", lvl %}
   {% if group.size > 0 %}
-    <h2>{{ lvl }}</h2>
+    <h2 id="alumni-{{ lvl | downcase }}">{{ lvl }}</h2>
     <ul class="supervision-list">
       {% for s in group %}
         <li>
@@ -44,10 +72,6 @@
           <div class="supervision-title">
             <em><strong>Topic:</strong> {{ s.title }}</em>
           </div>
-
-          <!-- <div class="supervision-summary">
-            <strong>Summary:</strong> {{ s.summary }}
-          </div> -->
 
           <span class="supervision-dates">
             <strong>End:</strong> {{ s.end }}
