@@ -6,7 +6,7 @@ author: "Edson OliveiraJr"
 author_profile: true
 classes: books-page
 ---
-
+<hr>
 {% for book in site.data.books %}
 
 {% unless forloop.first %}
