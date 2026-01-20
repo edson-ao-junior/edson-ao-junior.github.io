@@ -425,3 +425,23 @@
   border-radius: 10px;
   padding: 0.9em 1em;
 }
+
+/* ===============================
+   Impact & Reach page
+   =============================== */
+
+.impact-page h2 {
+  margin-top: 1.3em;
+  padding-top: 0.4em;
+  border-top: 1px solid #e6e6e6;
+}
+
+.impact-page ul {
+  margin-top: 0.6em;
+  padding-left: 1.1em;
+}
+
+.impact-page li {
+  margin-bottom: 0.5em;
+  line-height: 1.45;
+}
