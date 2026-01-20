@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Academic Background"
     url: /academic-background/
+  - title: "Appointments & Leadership"
+    url: /academic-appointments/
   - title: "Publications"
     url: /publications/
   - title: "Books and Chapters"
@@ -10,9 +12,7 @@ main:
   - title: "Service"
     url: /service/
   - title: "Supervisions"
-    url: /supervisions/
-  - title: "Appointments & Leadership"
-    url: /academic-appointments/
+    url: /supervisions/  
   # - title: "Projects"
   #   url: /projects/
   # - title: "Teaching"
