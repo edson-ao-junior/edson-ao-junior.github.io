@@ -1,7 +1,175 @@
-# - id: s001
-#   name: "Fulano de Tal"
-#   level: "Undergraduate"
-#   title: "Empirical Analysis of Test Flakiness"
-#   summary: "Empirical study on flaky tests in CI pipelines and strategies for detection and mitigation."
-#   start: "03/2022"
-#   end: "02/2023"
+- id: s101
+  name: "Thiago José da Silva"
+  level: "MSc"
+  title: "ExperDF-Onto: An Ontology to Support Controlled Experimentation in Digital Forensics"
+  summary: ""
+  start: "01/2021"
+  end: "12/2023"
+
+- id: s102
+  name: "Giovanna Cristina de Souza Bettin"
+  level: "MSc"
+  title: "SMartyPerspective: A Perspective-Based Inspection Technique for SMarty Software Product Line Models"
+  summary: ""
+  start: "01/2019"
+  end: "12/2021"
+
+- id: s103
+  name: "Carlos Danilo Luz"
+  level: "MSc"
+  title: "A Conceptual Model to Support the Teaching of Controlled Experiments and Quasi-Experiments in Software Engineering"
+  summary: ""
+  start: "01/2019"
+  end: "12/2021"
+
+- id: s104
+  name: "Henrique Vignando"
+  level: "MSc"
+  title: "OntoExper-SPL: An Ontology to Support Experiments in Software Product Lines"
+  summary: ""
+  start: "01/2018"
+  end: "12/2020"
+
+- id: s105
+  name: "Thais Santos Nepomuceno"
+  level: "MSc"
+  title: "Experimental Evaluation of the SMarty Approach from the Perspective of Product Configuration and Generation"
+  summary: ""
+  start: "01/2018"
+  end: "12/2020"
+
+- id: s106
+  name: "Leandro Flores da Silva"
+  level: "MSc"
+  title: "Empirical Evaluation of VMTools-RA: A Reference Architecture for Software Variability Tools"
+  summary: ""
+  start: "01/2018"
+  end: "12/2020"
+
+- id: s107
+  name: "Kleber Lopes Petry"
+  level: "MSc"
+  title: "SMartyTesting: A Model-Based Testing Approach for Software Product Lines Using SMarty"
+  summary: ""
+  start: "01/2017"
+  end: "12/2019"
+
+- id: s108
+  name: "Luciano Anisio Garcia"
+  level: "MSc"
+  title: "Adaptations of the SCRUM Framework for Software Development Projects: A Systematic Literature and Industry Analysis"
+  summary: ""
+  start: "01/2017"
+  end: "12/2019"
+
+- id: s109
+  name: "Marcus Vinicius Bertoncello"
+  level: "MSc"
+  title: "Strategy Patterns to Reduce Barriers Faced by Newcomers in Open Source Software Projects"
+  summary: ""
+  start: "01/2017"
+  end: "12/2019"
+
+- id: s110
+  name: "Andre Felipe Ribeiro Cordeiro"
+  level: "MSc"
+  title: "SMartyMetrics: A Contribution to ISO/IEC 25010 from the Maintainability Perspective of Software Product Lines"
+  summary: ""
+  start: "01/2016"
+  end: "12/2018"
+
+- id: s111
+  name: "Viviane da Rocha Furtado"
+  level: "MSc"
+  title: "Guidelines for Quality Evaluation of Quasi-Experiments and Controlled Experiments in Software Product Lines"
+  summary: ""
+  start: "01/2016"
+  end: "12/2018"
+
+- id: s112
+  name: "Anderson Gergamini de Neira"
+  level: "MSc"
+  title: "An Exploratory Study on Motivation and Developer Behavior in Software Development Crowdsourcing Platforms"
+  summary: ""
+  start: "01/2016"
+  end: "12/2018"
+
+- id: s113
+  name: "Maicon Pazin"
+  level: "MSc"
+  title: "Empirical Studies on the SMartySPEM Approach for Variability Management in Software Process Lines"
+  summary: ""
+  start: "01/2015"
+  end: "12/2017"
+
+- id: s114
+  name: "Ana Paula Allian"
+  level: "MSc"
+  title: "VMTools-RA: A Reference Architecture for Software Variability Tools"
+  summary: ""
+  start: "01/2014"
+  end: "12/2016"
+
+- id: s115
+  name: "Marcelo Carlos Benitez dos Santos"
+  level: "MSc"
+  title: "An Evaluation Model for Search-Based Software Product Line Architecture Design"
+  summary: ""
+  start: "01/2014"
+  end: "12/2016"
+
+- id: s116
+  name: "Jaime William Dias"
+  level: "MSc"
+  title: "Empirical Evidence of Compositional and Annotative Approaches for Variability Management in Software Process Lines"
+  summary: ""
+  start: "01/2013"
+  end: "12/2015"
+
+- id: s117
+  name: "Marcio Henrique Gimenes Bera"
+  level: "MSc"
+  title: "SMartyComponents: A Process for Specifying UML-Based Software Product Line Architectures"
+  summary: ""
+  start: "01/2013"
+  end: "12/2015"
+
+- id: s118
+  name: "Ricardo Theis Girardi"
+  level: "MSc"
+  title: "SMartyCheck: A Checklist-Based Inspection Technique for Use Case and Class Diagrams in the SMarty Approach"
+  summary: ""
+  start: "01/2013"
+  end: "12/2015"
+
+- id: s119
+  name: "Douglas Francisquini Toledo"
+  level: "MSc"
+  title: "idAuthority: A Model for Identifying Cognitive Authority in Social Networks"
+  summary: ""
+  start: "01/2013"
+  end: "12/2015"
+
+- id: s120
+  name: "Emanuel Felipe Duarte"
+  level: "MSc"
+  title: "Dico: A Conceptual Model of Advanced Search Resources for Exploratory Research"
+  summary: ""
+  start: "01/2013"
+  end: "12/2015"
+
+- id: s121
+  name: "Anderson da Silva Marcolino"
+  level: "MSc"
+  title: "Experimental Evaluation of the SMarty Approach for Variability Management in Software Product Lines"
+  summary: ""
+  start: "01/2012"
+  end: "12/2014"
+
+- id: s122
+  name: "Vanderson Hafemann Fragal"
+  level: "MSc"
+  title: "Application Engineering for Embedded Systems: Transforming SysML Specifications into Simulink"
+  summary: ""
+  start: "01/2011"
+  end: "12/2013"
