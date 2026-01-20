@@ -12,9 +12,7 @@ main:
   - title: "Service"
     url: /service/
   - title: "Supervisions"
-    url: /supervisions/  
-  - title: "Impact & Reach"
-    url: /impact/
+    url: /supervisions/    
   # - title: "Projects"
   #   url: /projects/
   # - title: "Teaching"
