@@ -14,9 +14,11 @@ main:
   - title: "Supervisions"
     url: /supervisions/    
   - title: "Projects"
-    url: /projects/
+    url: /projects/  
   - title: "Teaching"
     url: /teaching/
+  - title: "Invited Talks & Academic Media"
+    url: /invited-talks/
   # - title: "Open Science"
   #   url: /open-science/
   # - title: "CV"
