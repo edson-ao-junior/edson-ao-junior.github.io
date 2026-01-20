@@ -14,3 +14,9 @@ collections:
   pages:
     output: true
     permalink: /:name/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-S0QJ65TVF7"
+    anonymize_ip: true
