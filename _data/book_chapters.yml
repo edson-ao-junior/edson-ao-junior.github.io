@@ -12,6 +12,7 @@
   book_title: "Conceptual Models: Frameworks for Understanding Complex Systems and Interdisciplinary Inquiry"
   publisher: "Nova Science Publishers"
   year: 2026
-  doi: ""
+  doi: "10.52305/OIDG0672"
+  toc: "https://novapublishers.com/shop/frontiers-of-forensic-science-innovation-technology-and-justice/#tab-description"
   abstract: >
     This chapter presents a comprehensive and integrative account of how conceptual modeling can strengthen rigor, transparency, and reproducibility in empirical research across Software Engineering and Digital Forensics. It examines the epistemological foundations of conceptual modeling, its cognitive and methodological roles, and its evolution into semantic and ontology-driven representations that support both human understanding and machine-actionable knowledge. The chapter introduces detailed conceptual models for controlled experimentation in Software Engineering and Digital Forensics, highlighting their phases, entities, relationships, and hierarchical structures, and their alignment with established empirical guidelines and open science principles. It further demonstrates how these models facilitate experimental planning, execution, analysis, interpretation, dissemination, and educational use while enabling interoperability, provenance tracking, and forensic readiness. By extending these contributions through a set of prospective actions, the chapter positions conceptual modeling as a unifying scientific instrument that can drive cumulative, reproducible, and cross-domain empirical research in computing disciplines.
