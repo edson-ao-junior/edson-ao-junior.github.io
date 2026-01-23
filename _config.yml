@@ -3,6 +3,21 @@ description: "Associate Professor of Software Engineering"
 url: "https://edson-ao-junior.github.io"
 baseurl: ""
 
+author:
+  name: "Edson OliveiraJr, Ph.D."
+  avatar: "profile.jpeg"
+  bio: "Associate Professor of Software Engineering"
+  location: "Brazil"
+  employer: "State University of Maringá (UEM)"
+  email: "edson@din.uem.br"
+
+  googlescholar: "https://scholar.google.com/citations?user=71vteVgAAAAJ"
+  orcid: "https://orcid.org/0000-0002-4760-1626"
+  dblp: "https://dblp.org/pid/04/2051.html"
+  github: "edson-ao-junior"
+  linkedin: "oliveirajr-edson/"
+  lattes: "http://lattes.cnpq.br/8717980588591239"
+
 remote_theme: academicpages/academicpages.github.io
 
 plugins:
