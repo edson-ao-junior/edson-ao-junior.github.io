@@ -122,6 +122,10 @@ conferences:
       years: [2025, 2024]
 
     - role: "TPC Member"
+      venue: "International Workshop on Software Engineering and Research Software (SERS@ICSE)"
+      years: [2026]
+
+    - role: "TPC Member"
       venue: "International Conference on Software Analysis, Evolution and Reengineering – RENE Track (SANER)"
       years: [2025, 2024]
 
@@ -161,6 +165,10 @@ conferences:
       venue: "IEEE Frontiers in Education Conference (FIE)"
       years: [2025, 2024, 2020, 2019, 2018, 2017, 2016, 2015]
     
+    - role: "TPC Member"
+      venue: "Ibero-American Conference on Software Engineering (CIbSE)"
+      years: [2026, 2025, 2024, 2023, 2022, 2021, 2020]
+
   national:
     - role: "TPC Member"
       venue: "Brazilian Symposium on Information Systems (SBSI)"
