@@ -51,6 +51,10 @@ journals:
     years: [2025, 2024]
 
   - role: "Reviewer"
+    venue: "Array"
+    years: [2026]
+
+  - role: "Reviewer"
     venue: "Forensic Science International: Digital Investigation"
     years: [2025, 2024, 2023]
 
