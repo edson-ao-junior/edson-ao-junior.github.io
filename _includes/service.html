@@ -20,7 +20,7 @@ permalink: /service/
         {% if item.years %}
           ({{ item.years | join: ", " }})
         {% else %}
-          ({{ item.start }} – {{ item.end }})
+          ({{ item.start }} – <strong>{{ item.end }}</strong>)
         {% endif %}
       </li>
     {% endfor %}
