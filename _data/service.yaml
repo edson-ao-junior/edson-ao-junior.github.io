@@ -80,6 +80,14 @@ journals:
 
 conferences:
   chair:
+    - role: "General Co-Chair"
+      venue: "2nd. School of Empirical Studies in Software Engineering (EEES@ICSE)"
+      years: [2026]
+  
+    - role: "General Co-Chair"
+      venue: "1st. School of Empirical Studies in Software Engineering (EEES@CIbSE)"
+      years: [2025]
+    
     - role: "PC Co-Chair"
       venue: "Ibero-American Conference on Software Engineering (CIbSE)"
       years: [2024]
