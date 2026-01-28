@@ -488,3 +488,36 @@
 .preprint-icon:hover {
   opacity: 1.0;
 }
+
+/* ===============================
+   FINAL FIX – Publications Font Size
+   =============================== */
+
+.publications-page {
+  font-size: 0.88rem !important;
+}
+
+.publications-page .publication-list li {
+  font-size: inherit !important;
+  line-height: 1.35 !important;
+  margin-bottom: 0.55rem !important;
+}
+
+.publications-page h1 {
+  font-size: 1.3rem !important;
+}
+
+.publications-page h2 {
+  font-size: 1.05rem !important;
+}
+
+/* Icons smaller */
+.publications-page .doi-icon,
+.publications-page .preprint-icon,
+.publications-page .badge-icon {
+  width: 18px !important;
+}
+
+.publications-page .artifact-icon {
+  width: 22px !important;
+}
