@@ -22,7 +22,7 @@
   type: conference
   language: en
   artifact: "https://doi.org/10.5281/zenodo.11114264"  
-  preprint: 
+  preprint: https://doi.org/10.5281/zenodo.18402538
 - authors: Ferreira, V. E.; Cesaro, J. P. V.; Rosa, G.; OliveiraJr, E.; Leal, G. C. L.; Balancieri, R.
   title: "CrowdStrike Blackout: Impacts, Technical Root Causes, and Lessons Learned from a Multivocal Analysis of a Critical\
     \ Incident"
