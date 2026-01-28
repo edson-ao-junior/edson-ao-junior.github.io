@@ -32,6 +32,13 @@
            width="22"
            height="22">
     </a>
+    <!-- <a href="https://arxiv.org/pdf/2501.12345.pdf"
+      target="_blank"
+      title="Download Preprint PDF">
+      <img src="{{ 'assets/img/pdf.png' | relative_url }}"
+          alt="PDF"
+          class="preprint-icon">
+    </a> -->
     <a href="https://doi.org/10.5281/zenodo.17088646"
        target="_blank"
        rel="noopener noreferrer"
@@ -281,6 +288,19 @@
             <span class="doi-text">DOI</span>
           {% endif %}
 
+          {%- comment -%} Preprint PDF {%- endcomment -%}
+          {% if pub.preprint %}
+            <a href="{{ pub.preprint }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="preprint-link"
+              title="Download Preprint PDF">
+              <img src="{{ 'assets/img/pdf.png' | relative_url }}"
+                  alt="Preprint"
+                  class="preprint-icon">
+            </a>
+          {% endif %}
+
           {%- comment -%} ARTIFACT {%- endcomment -%}
           {% if pub.artifact %}
             <a href="{{ pub.artifact }}"
@@ -359,6 +379,19 @@
             {% endif %}
           {% else %}
             <span class="doi-text">DOI</span>
+          {% endif %}
+
+          {%- comment -%} Preprint PDF {%- endcomment -%}
+          {% if pub.preprint %}
+            <a href="{{ pub.preprint }}"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="preprint-link"
+              title="Download Preprint PDF">
+              <img src="{{ 'assets/img/pdf.png' | relative_url }}"
+                  alt="Preprint"
+                  class="preprint-icon">
+            </a>
           {% endif %}
 
           {%- comment -%} ARTIFACT {%- endcomment -%}
