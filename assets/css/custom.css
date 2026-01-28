@@ -476,3 +476,15 @@
 .projects-note {
   margin-top: 1.6em;
 }
+
+.preprint-icon {
+  width: 22px;
+  height: 22px;
+  margin-left: 6px;
+  vertical-align: middle;
+  opacity: 0.85;
+}
+
+.preprint-icon:hover {
+  opacity: 1.0;
+}

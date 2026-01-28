@@ -5,6 +5,7 @@
   doi: 10.1145/3793657.3793894
   type: conference
   language: en
+  preprint: https://doi.org/10.5281/zenodo.18395938
 - authors: OliveiraJr, Edson.
   title: Experimentation and Open Science as First-Class Concerns for the Future of Software Engineering
   venue: ICSE 2026 Future of Software Engineering (FOSE@ICSE)
@@ -12,6 +13,7 @@
   doi: 10.1145/3793657.3793900
   type: conference
   language: en
+  preprint: https://doi.org/10.5281/zenodo.18395914
 - authors: Bett, A. B. M.; Nepomuceno, T. S.; OliveiraJr, Edson; Baldassare, M. T.; Graciano Neto, V. V.; Kalinowski, M.
   title: Towards an OSF-based Registered Report Template for Software Engineering Controlled Experiments
   venue: International Workshop on Methodological Issues with Empirical Studies in Software Engineering (WSESE@ICSE)
@@ -20,6 +22,7 @@
   type: conference
   language: en
   artifact: "https://doi.org/10.5281/zenodo.11114264"  
+  preprint: 
 - authors: Ferreira, V. E.; Cesaro, J. P. V.; Rosa, G.; OliveiraJr, E.; Leal, G. C. L.; Balancieri, R.
   title: "CrowdStrike Blackout: Impacts, Technical Root Causes, and Lessons Learned from a Multivocal Analysis of a Critical\
     \ Incident"
