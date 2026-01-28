@@ -1,6 +1,6 @@
 - authors: Santana, F. A.; Cordeiro, A. F. R.; OliveiraJr, Edson.
   title: Toward Metadata-Driven Experimentation in Software Engineering - A Vision for Reproducible, Interoperable, and Transparent Research
-  venue: ICSE 2026 Future of Software Engineering (FOSE@ICSE)
+  venue: ICSE 2026 Future of Software Engineering (FoSE@ICSE)
   year: 2026
   doi: 10.1145/3793657.3793894
   type: conference
@@ -8,7 +8,7 @@
   preprint: https://doi.org/10.5281/zenodo.18395938
 - authors: OliveiraJr, Edson.
   title: Experimentation and Open Science as First-Class Concerns for the Future of Software Engineering
-  venue: ICSE 2026 Future of Software Engineering (FOSE@ICSE)
+  venue: ICSE 2026 Future of Software Engineering (FoSE@ICSE)
   year: 2026
   doi: 10.1145/3793657.3793900
   type: conference
