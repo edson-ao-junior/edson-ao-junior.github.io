@@ -27,15 +27,14 @@
    Publications – Lists
    =============================== */
 
-.publication-list {
-  list-style: none;
-  padding-left: 0;
-  margin-left: 0;
+.publications-page .publication-list {
+  list-style: disc;
+  padding-left: 1.3rem;
 }
 
-.publications-page .publication-list li {
-  margin-bottom: 0.6em;
-  line-height: 1.4;
+.publications-page .publication-list li::marker {
+  font-size: 0.75rem;
+  color: #666;
 }
 
 /* ===============================
