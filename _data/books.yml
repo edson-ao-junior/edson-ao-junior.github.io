@@ -16,7 +16,7 @@
   year: 2026
   doi: ""
   cover: "/images/books/df.png"
-  toc: ""
+  toc: "https://link.springer.com/book/9783032199508"
   abstract: >
     The book provides a comprehensive reflection on the scientific foundations of evidence-based Digital Forensics as an emerging discipline. It goes beyond the practice-oriented roots of Digital Forensics to present a mature field grounded in reproducible, systematic, and transparent research methods. Its title, Controlled Experimentation of Digital Forensics: Towards Formalization for Strengthening Evidence Reproducibility, Reliability, and Transparency, encapsulates this ambition, emphasizing both the need to formalize experimental processes and the commitment to foster openness and rigor in forensic science. Through conceptual models (ExperDF-CM) and semantic frameworks (ExperDF-Onto), the book proposes practical mechanisms for structuring, documenting, and validating experiments in Digital Forensics. It ultimately situates the discipline within the broader movement of Open Science, aligning its principles with the UNESCO Recommendation on Open Science and the pursuit of socially responsible research.
 
