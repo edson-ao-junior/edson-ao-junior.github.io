@@ -2,7 +2,7 @@
   authors: "Edson OliveiraJr"
   book_title: "Frontiers of Forensic Science: Innovation, Technology, and Justice"
   publisher: "Nova Science Publishers"
-  year: 2026
+  year: April/2026
   doi: "10.52305/OIDG0672"
   abstract: >
     Digital Forensics (DF) focuses on identifying, acquiring, analyzing, and reporting information from digital devices, especially in computer crime investigations. The investigative process encompasses phases of identification, preservation, collection, examination, analysis, and presentation, all of which are crucial for maintaining evidence integrity and ensuring legal admissibility. The rise of complex digital environments, such as cloud computing and the Internet of Things (IoT), along with technologies like Artificial Intelligence (AI) and Natural Language Processing (NLP), is reshaping the field. This chapter emphasizes the importance of experimentation in developing and validating DF methodologies. Reliable forensic findings are tied to rigorous experimental processes. Challenges include a lack of standardization, insufficient documentation of experimental elements, and limited realistic datasets for validating forensic tools. Additionally, current forensic tools often lack benchmarking frameworks. To enhance controlled experimentation in DF, the chapter advocates for developing support tools for planning and conducting experiments, fostering openness for reproducibility, and strategically integrating AI and Machine Learning (ML). It also emphasizes the importance of formal experimental designs, adherence to standards, quality assurance, and addressing emerging challenges to advance the field.
@@ -11,7 +11,7 @@
   authors: "Edson OliveiraJr, Carlos D. Luz, Avelino F. Zorzo"
   book_title: "Conceptual Models: Frameworks for Understanding Complex Systems and Interdisciplinary Inquiry"
   publisher: "Nova Science Publishers"
-  year: 2026
+  year: November/2026
   doi: ""
   abstract: >
     This chapter presents a comprehensive and integrative account of how conceptual modeling can strengthen rigor, transparency, and reproducibility in empirical research across Software Engineering and Digital Forensics. It examines the epistemological foundations of conceptual modeling, its cognitive and methodological roles, and its evolution into semantic and ontology-driven representations that support both human understanding and machine-actionable knowledge. The chapter introduces detailed conceptual models for controlled experimentation in Software Engineering and Digital Forensics, highlighting their phases, entities, relationships, and hierarchical structures, and their alignment with established empirical guidelines and open science principles. It further demonstrates how these models facilitate experimental planning, execution, analysis, interpretation, dissemination, and educational use while enabling interoperability, provenance tracking, and forensic readiness. By extending these contributions through a set of prospective actions, the chapter positions conceptual modeling as a unifying scientific instrument that can drive cumulative, reproducible, and cross-domain empirical research in computing disciplines.
