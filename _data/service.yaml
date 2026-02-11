@@ -14,7 +14,7 @@ journals:
     start: 2024
     end: "present"
 
-   - role: "Guest Editor"
+  - role: "Guest Editor"
     venue: "Science of Computer Programming - Selected papers from CIbSE 2024"
     years: [2025]
     
