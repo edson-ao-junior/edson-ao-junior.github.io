@@ -14,6 +14,10 @@ journals:
     start: 2024
     end: "present"
 
+   - role: "Guest Editor"
+    venue: "Science of Computer Programming - Selected papers from CIbSE 2024"
+    years: [2025]
+    
   - role: "Reviewer"
     venue: "IEEE Transactions on Software Engineering"
     years: [2025, 2024, 2023]
