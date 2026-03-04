@@ -1,18 +1,18 @@
-- authors: Alexandre, M. S.; OliveiraJr, Edson; Morandini, M.
+- authors: Alexandre, M. S.; OliveiraJr, Edson; Morandini, M
   title: Key Performance Indicators in Brazilian Software Development Companies - a Replicated Survey
   venue: Proceedings of the 28nd International Conference on Enterprise Information Systems (ICEIS 2026)
   year: 2026
   doi: DOI
   type: conference
   language: en
-- authors: Graciano Neto, V. V.; Kassab, M.; Santos, D. L; França, A. G.; OliveiraJr, Edson; Frantz, R. Z; Moshin, A.; Kalinowski, M.
+- authors: Graciano Neto, V. V.; Kassab, M.; Santos, D. L; França, A. G.; OliveiraJr, Edson; Frantz, R. Z; Moshin, A.; Kalinowski, M
   title: Software Architecting in the Brazilian Industry - Results of a Prior Survey
   venue: Proceedings of the 28nd International Conference on Enterprise Information Systems (ICEIS 2026)
   year: 2026
   doi: DOI
   type: conference
   language: en
-- authors: Santana, F. A.; Cordeiro, A. F. R.; OliveiraJr, Edson.
+- authors: Santana, F. A.; Cordeiro, A. F. R.; OliveiraJr, Edson
   title: Toward Metadata-Driven Experimentation in Software Engineering - A Vision for Reproducible, Interoperable, and Transparent Research
   venue: ICSE 2026 Future of Software Engineering (FoSE@ICSE)
   year: 2026
@@ -20,7 +20,7 @@
   type: conference
   language: en
   preprint: https://doi.org/10.5281/zenodo.18395938
-- authors: OliveiraJr, Edson.
+- authors: OliveiraJr, Edson
   title: Experimentation and Open Science as First-Class Concerns for the Future of Software Engineering
   venue: ICSE 2026 Future of Software Engineering (FoSE@ICSE)
   year: 2026
@@ -28,7 +28,7 @@
   type: conference
   language: en
   preprint: https://doi.org/10.5281/zenodo.18395914
-- authors: Bett, A. B. M.; Nepomuceno, T. S.; OliveiraJr, Edson; Baldassare, M. T.; Graciano Neto, V. V.; Kalinowski, M.
+- authors: Bett, A. B. M.; Nepomuceno, T. S.; OliveiraJr, Edson; Baldassare, M. T.; Graciano Neto, V. V.; Kalinowski, M
   title: Towards an OSF-based Registered Report Template for Software Engineering Controlled Experiments
   venue: International Workshop on Methodological Issues with Empirical Studies in Software Engineering (WSESE@ICSE)
   year: 2026
