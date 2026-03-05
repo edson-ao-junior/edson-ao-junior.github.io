@@ -34,14 +34,6 @@
   start: "01/2024"
   end: "—"
 
-- id: s021
-  name: "Vinicius Eduardo Ferreira"
-  level: "MSc"
-  title: "Cybersecurity Education in Higher Education Programs"
-  summary: "Study on education and training strategies to improve cybersecurity awareness in academic and professional contexts."
-  start: "01/2024"
-  end: "—"
-
 - id: s023
   name: "Ana Beatriz Mantovanni Bett"
   level: "MSc"
@@ -69,6 +61,14 @@
 # =========================
 # DOCTORAL STUDENTS (PhD)
 # =========================
+
+- id: s021
+  name: "Vinicius Eduardo Ferreira"
+  level: "PhD"
+  title: "Cybersecurity Education in Higher Education Programs"
+  summary: "Study on education and training strategies to improve cybersecurity awareness in academic and professional contexts."
+  start: "03/2024"
+  end: "—"
 
 - id: s030
   name: "Cristiane Estevo da Silva"
