@@ -10,13 +10,13 @@ Entre setembro de 2018 e fevereiro de 2020, realizei meu pós-doutorado na PUCRS
 
 Em vez de apenas importar conhecimentos, comecei a perceber que muitos fundamentos da engenharia de software, particularmente aqueles relacionados à experimentação, rigor metodológico e estruturação de evidências, poderiam contribuir de forma significativa com a própria área de forense digital. O fluxo se inverteu. Passei não apenas a aprender, mas também a aplicar princípios de experimentação oriundos da engenharia de software para ajudar a repensar como a forense digital conduz seus estudos, organiza seus protocolos e fortalece sua base científica. Foi nesse momento que percebi que não estava apenas realizando um pós-doutorado, mas ajudando a construir uma ponte interdisciplinar entre áreas com enorme potencial mútuo.
 
-Foi também nesse período que despertou em mim um interesse profundo por **ciência aberta**. Ao me deparar com desafios concretos de rigor, transparência e reprodutibilidade, tornou-se evidente que essas questões não eram apenas técnicas, mas estruturais. Passei a compreender que práticas de abertura científica, compartilhamento de artefatos, documentação robusta e transparência metodológica não eram elementos periféricos, mas centrais para elevar a confiabilidade da ciência. Desde então, Open Science tornou-se parte essencial da minha visão de pesquisa, diretamente conectada à melhoria da qualidade científica.
+Foi também nesse período que despertou em mim um interesse profundo por <strong>ciência aberta</strong>. Ao me deparar com desafios concretos de rigor, transparência e reprodutibilidade, tornou-se evidente que essas questões não eram apenas técnicas, mas estruturais. Passei a compreender que práticas de abertura científica, compartilhamento de artefatos, documentação robusta e transparência metodológica não eram elementos periféricos, mas centrais para elevar a confiabilidade da ciência. Desde então, Open Science tornou-se parte essencial da minha visão de pesquisa, diretamente conectada à melhoria da qualidade científica.
 
-Saí dessa experiência com algo muito maior do que havia planejado inicialmente: uma visão mais clara de propósito, uma rede sólida de colaboração e a construção de uma linha de pesquisa internacionalmente relevante em **forense digital, experimentação, reprodutibilidade e ciência aberta**.
+Saí dessa experiência com algo muito maior do que havia planejado inicialmente: uma visão mais clara de propósito, uma rede sólida de colaboração e a construção de uma linha de pesquisa internacionalmente relevante em <strong>forense digital, experimentação, reprodutibilidade e ciência aberta</strong>.
 
-Ao longo dos anos seguintes, essa semente cresceu de forma consistente. Vieram artigos em periódicos internacionais de alto impacto, abordando desde educação em forense digital até modelos conceituais, ontologias, experimentação controlada e reflexões mais amplas sobre evolução científica. Cada produção consolidou uma peça importante de uma agenda que hoje conecta **Empirical Software Engineering**, **Digital Forensics**, **Reproducibility**, e **Open Science**.
+Ao longo dos anos seguintes, essa semente cresceu de forma consistente. Vieram artigos em periódicos internacionais de alto impacto, abordando desde educação em forense digital até modelos conceituais, ontologias, experimentação controlada e reflexões mais amplas sobre evolução científica. Cada produção consolidou uma peça importante de uma agenda que hoje conecta <strong>Empirical Software Engineering</strong>, <strong>Digital Forensics</strong>, <strong>Reproducibility</strong>, e <strong>Open Science</strong>.
 
-Esse processo culminou, simbolicamente, na publicação do livro *Controlled Experimentation of Digital Forensics - Towards Formalization for Strengthening Evidence Reproducibility, Reliability, and Transparency* (Springer, 2026), que representa não apenas um produto acadêmico, mas a consolidação de anos de amadurecimento científico.
+Esse processo culminou, simbolicamente, na publicação do livro <i>Controlled Experimentation of Digital Forensics - Towards Formalization for Strengthening Evidence Reproducibility, Reliability, and Transparency</i> (Springer, 2026), que representa não apenas um produto acadêmico, mas a consolidação de anos de amadurecimento científico.
 
 Mas talvez o aspecto mais significativo dessa trajetória esteja nas pessoas. Essa linha de pesquisa passou a formar mestres e doutores, orientar novos pesquisadores, gerar dissertações, teses, projetos financiados e novas agendas científicas. Ver alunos desenvolvendo suas próprias contribuições em temas como protocolos experimentais, educação em cibersegurança e arquiteturas forenses é uma das maiores evidências de que o impacto de um pós-doutorado bem realizado vai muito além da produção individual.
 
@@ -31,11 +31,12 @@ Por fim, deixo aqui meu sincero agradecimento ao Departamento de Informática da
 ## Principais produções científicas (pós-doutorado e desdobramentos)
 
 ### Artigos em periódicos internacionais de alto impacto
-- OliveiraJr, Edson; Zorzo, Avelino F. *Review and agenda of Digital Forensics education and training*. Forensic Science International (2025)
-- OliveiraJr, Edson; Lolli, L. F.; Avila, G. N.; Mossini, S. A. G. *Forensic sciences workforce education and training: the technical residency in southern Brazil*. Forensic Sciences Research (2025)
-- OliveiraJr, Edson; Zorzo, Avelino F. *Rethinking Research in Computer Science: Beyond Metrics, Toward Scientific Evolution*. IEEE Computer
-- Silva, T. J.; OliveiraJr, E.; Zorzo, A. F.; Pereira, M. E. *A review study of digital forensics in IoT*. FSI Digital Investigation (2025)
-- Silva, T. J.; Mazur, A. H.; OliveiraJr, E.; Zorzo, A. F.; Barcelos, M. *An ontology for promoting controlled experimentation in digital forensics*. FSI Digital Investigation (2024)
+- OliveiraJr, Edson. <strong>Towards Controlled and Forensic-Ready Experimentation in Digital Forensics: Methodological Challenges, Principles, and a Research Agenda</strong>. Forensic Science International - Digital Investigation (2026)
+- OliveiraJr, Edson; Zorzo, Avelino F. <strong>Review and agenda of Digital Forensics education and training</strong>. Forensic Science International (2025)
+- OliveiraJr, Edson; Lolli, L. F.; Avila, G. N.; Mossini, S. A. G. <strong>Forensic sciences workforce education and training: the technical residency in southern Brazil</strong>. Forensic Sciences Research (2025)
+- OliveiraJr, Edson; Zorzo, Avelino F. <strong>Rethinking Research in Computer Science: Beyond Metrics, Toward Scientific Evolution</strong>. IEEE Computer
+- Silva, T. J.; OliveiraJr, E.; Zorzo, A. F.; Pereira, M. E. <strong>A review study of digital forensics in IoT</strong>. FSI Digital Investigation (2025)
+- Silva, T. J.; Mazur, A. H.; OliveiraJr, E.; Zorzo, A. F.; Barcelos, M. <strong>An ontology for promoting controlled experimentation in digital forensics</strong>. FSI Digital Investigation (2024)
 - Demais artigos em Forensic Science Review, WIREs Forensic Science e FSI Digital Investigation
 
 ### Conferências
