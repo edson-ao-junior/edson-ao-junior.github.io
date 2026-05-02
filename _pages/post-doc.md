@@ -50,7 +50,7 @@ Por fim, deixo aqui meu sincero agradecimento ao Departamento de Informática da
 - RESUME – CAPES (2024–presente)
 - NAPI Segurança Pública e Ciências Forenses – Fundação Araucária (2024–presente)
 - INCT Forense (2017–2024)
-- Ciberaparana (2017–presente)
+- Ciberaparana (2026–presente)
 
 ## Formação de recursos humanos
 
