@@ -28,8 +28,8 @@
    =============================== */
 
 .publications-page .publication-list {
-  list-style: disc;
-  padding-left: 1.3rem;
+  list-style: decimal;
+  padding-left: 2rem;
 }
 
 .publications-page .publication-list li::marker {
