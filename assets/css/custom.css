@@ -522,7 +522,7 @@
 }
 
 /* forca numeros na lista de publicacoes.. */
-ol.publication-list {
+/* ol.publication-list {
   list-style: decimal outside !important;
   padding-left: 2.5rem !important;
 }
@@ -535,4 +535,4 @@ ol.publication-list > li {
 ol.publication-list > li::marker {
   content: normal !important;
   color: #666;
-}
+} */
