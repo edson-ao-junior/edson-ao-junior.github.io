@@ -520,3 +520,19 @@
 .publications-page .artifact-icon {
   width: 22px !important;
 }
+
+
+ol.publication-list {
+  list-style: decimal outside !important;
+  padding-left: 2.5rem !important;
+}
+
+ol.publication-list > li {
+  display: list-item !important;
+  list-style: decimal outside !important;
+}
+
+ol.publication-list > li::marker {
+  content: normal !important;
+  color: #666;
+}
