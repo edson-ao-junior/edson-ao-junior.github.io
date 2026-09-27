@@ -521,7 +521,7 @@
   width: 22px !important;
 }
 
-
+/* forca numeros na lista de publicacoes.. */
 ol.publication-list {
   list-style: decimal outside !important;
   padding-left: 2.5rem !important;
