@@ -1,6 +1,7 @@
 - title: "UML-Based Software Product Line Engineering with SMarty"
   subtitle: ""
   authors: "Edson OliveiraJr (eds.)"
+  foreword: Mathias Galster, Ph.D. (University of Bamberg, Germany)
   publisher: "Springer"
   year: March/2023
   doi: "10.1007/978-3-031-18556-4"
@@ -12,6 +13,7 @@
 - title: "Controlled Experimentation of Digital Forensics - Towards Formalization for Strengthening Evidence Reproducibility, Reliability, and Transparency"
   subtitle: ""
   authors: "Edson OliveiraJr, Thiago J. Silva, Charles V. Neu, Avelino F. Zorzo, Ana H. Mazur"
+  foreword: Ali Dehghantanha, Ph.D. (University of Guelph, Canada)
   publisher: "Springer"
   year: July/2026
   doi: "10.1007/978-3-032-19951-5"
@@ -23,6 +25,7 @@
 - title: "Open Science: Principles, Practices, and Infrastructures for Transparent and Reproducible Research"
   subtitle: ""
   authors: "Edson OliveiraJr (eds.)"
+  foreword: Cláudia Bauzer Medeiros, Ph.D. (IC/Unicamp, Brazil)
   publisher: "Springer"
   year: Jan/2027
   # doi:

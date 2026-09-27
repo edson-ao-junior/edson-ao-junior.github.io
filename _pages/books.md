@@ -31,6 +31,10 @@ classes: books-page
       <em>{{ book.publisher }}</em>, {{ book.year }}
     </p>
 
+    {% if book.foreword and book.foreword != "" %}
+  <p><strong>Foreword by:</strong> {{ book.foreword }}</p>
+{% endif %}
+
     {% if book.doi %}
       <p class="book-doi">
         DOI:
