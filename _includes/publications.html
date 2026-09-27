@@ -9,14 +9,14 @@
 {% assign total_conferences = pubs | where: "type", "conference" | size %}
 {% assign total_articles = total_journals | plus: total_conferences %}
 
-<div style="padding: 1rem; margin: 1rem 0; background: #f5f5f5; border-radius: 8px;">
+<!-- <div style="padding: 1rem; margin: 1rem 0; background: #f5f5f5; border-radius: 8px;">
   <strong>Publication Summary</strong>
   <p style="margin: 0.5rem 0 0;">
     Journal Articles: <strong>{{ total_journals }}</strong><br>
     Conference &amp; Workshop Papers: <strong>{{ total_conferences }}</strong><br>
     Total: <strong>{{ total_articles }}</strong>
   </p>
-</div>
+</div> -->
 
 <!-- <p>
   This page is organized in two parts: first, a curated list of
@@ -267,7 +267,7 @@
   {% assign journals = pubs_year | where: "type", "journal" %}
   {% if journals.size > 0 %}
     <h2>Journal Articles</h2>
-    <ol class="publication-list">
+    <ul class="publication-list">
       {% for pub in journals %}
         <li>
           {{ pub.authors }}.
@@ -356,13 +356,13 @@
           {% endif %}
         </li>
       {% endfor %}
-    </ol>
+    </ul>
   {% endif %}
 
   {% assign confs = pubs_year | where: "type", "conference" %}
   {% if confs.size > 0 %}
     <h2>Conference & Workshop Papers</h2>
-    <ol class="publication-list">
+    <ul class="publication-list">
       {% for pub in confs %}
         <li>
           {{ pub.authors }}.
@@ -451,7 +451,7 @@
           {% endif %}
         </li>
       {% endfor %}
-    </ol>
+    </ul>
   {% endif %}
 
 {% endfor %}
