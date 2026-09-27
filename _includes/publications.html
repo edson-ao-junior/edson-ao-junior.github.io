@@ -253,7 +253,7 @@
   {% assign journals = pubs_year | where: "type", "journal" %}
   {% if journals.size > 0 %}
     <h2>Journal Articles</h2>
-    <ul class="publication-list">
+    <ol class="publication-list">
       {% for pub in journals %}
         <li>
           {{ pub.authors }}.
@@ -342,13 +342,13 @@
           {% endif %}
         </li>
       {% endfor %}
-    </ul>
+    </ol>
   {% endif %}
 
   {% assign confs = pubs_year | where: "type", "conference" %}
   {% if confs.size > 0 %}
     <h2>Conference & Workshop Papers</h2>
-    <ul class="publication-list">
+    <ol class="publication-list">
       {% for pub in confs %}
         <li>
           {{ pub.authors }}.
@@ -437,7 +437,7 @@
           {% endif %}
         </li>
       {% endfor %}
-    </ul>
+    </ol>
   {% endif %}
 
 {% endfor %}
