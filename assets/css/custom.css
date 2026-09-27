@@ -28,8 +28,8 @@
    =============================== */
 
 .publications-page .publication-list {
-  list-style: decimal;
-  padding-left: 2rem;
+  list-style: disc;
+  padding-left: 1.3rem;
 }
 
 .publications-page .publication-list li::marker {
@@ -520,19 +520,3 @@
 .publications-page .artifact-icon {
   width: 22px !important;
 }
-
-/* forca numeros na lista de publicacoes.. */
-/* ol.publication-list {
-  list-style: decimal outside !important;
-  padding-left: 2.5rem !important;
-}
-
-ol.publication-list > li {
-  display: list-item !important;
-  list-style: decimal outside !important;
-}
-
-ol.publication-list > li::marker {
-  content: normal !important;
-  color: #666;
-} */
