@@ -1,4 +1,5 @@
-<!-- ---
+<!-- 
+---
 layout: single
 author: "Edson OliveiraJr"
 author_profile: true
@@ -13,14 +14,7 @@ A central theme of my work is understanding how **open, reproducible, and transp
 
 On this website, you can find information about my **publications**, **research projects**, **teaching activities**, and **open science**.
 
-<!-- ---
-
-### 🔗 Quick access
-- 📄 **[Publications](/publications/)**
-- 🧪 **[Open Science & Artifacts](/open-science/)**
-- 🏗️ **[Projects](/projects/)**
-- 🎓 **[Teaching](/teaching/)**
-- 📑 **[Curriculum Vitae](/cv/)** --> -->
+-->
 
 ---
 layout: single
