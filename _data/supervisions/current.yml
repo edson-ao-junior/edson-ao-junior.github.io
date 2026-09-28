@@ -3,6 +3,14 @@
 # =========================
 
 - id: s019
+  name: "Zaqueu Sampaio da Silva (Co-supervised by Prof. Dr. Guilherme C. Guerino - UNESPAR)"
+  level: "MSc"
+  title: "Deceptive Patterns"
+  summary: "Investigation of recurring and domain-specific deceptive patterns."
+  start: "03/2026"
+  end: "—"
+
+- id: s019
   name: "Fernando Silva Grande"
   level: "MSc"
   title: "Classification of Controlled Experiment Protocols in Software Engineering Using Natural Language Processing and Machine Learning"
@@ -48,6 +56,14 @@
 # DOCTORAL STUDENTS (PhD)
 # =========================
 
+- id: s033
+  name: "Silvio Rogério Felipe Gomes"
+  level: "PhD"
+  title: TBD
+  summary: TBD
+  start: "07/2026"
+  end: "—" 
+
 - id: s021
   name: "Vinicius Eduardo Ferreira"
   level: "PhD"
@@ -57,7 +73,7 @@
   end: "—"
 
 - id: s030
-  name: "Cristiane Estevo da Silva"
+  name: "Cristiane Estevo da Silva (Co-supervised by Prof. Dr. André F. R. Cordeiro - UEM)"
   level: "PhD"
   title: "Sharing of Software Engineering Research Artifacts"
   summary: "Conceptual modeling to support sharing, reuse, and transparency of research artifacts in Software Engineering."
@@ -80,13 +96,7 @@
   start: "01/2022"
   end: "—"
 
-- id: s033
-  name: "Silvio Rogério Felipe Gomes"
-  level: "PhD"
-  title: TBD
-  summary: TBD
-  start: "07/2026"
-  end: "—"  
+ 
 
 # =========================
 # UNDERGRADUATE (IC / IT / TCC)
