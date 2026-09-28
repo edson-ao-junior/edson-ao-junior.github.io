@@ -27,6 +27,22 @@
 
 # MSc
 
+- id: s024
+  name: "Mariana Santos de Jesus Alexandre"
+  level: "MSc"
+  title: "A Catalog of Key Performance Indicators in the Context of Software Development in Brazil"
+  summary: "Proposal and empirical evaluation of a conceptual model of KPIs tailored to Brazilian software development companies."
+  start: "01/2023"
+  end: "07/2026"
+
+- id: s025
+  name: "Elaine Ignacio Moreira"
+  level: "MSc"
+  title: "A Reference Architecture for Mobile Forensics Tools"
+  summary: "Definition of conceptual requirements to support the design and evaluation of digital forensic tools."
+  start: "01/2023"
+  end: "07/2026"
+
 - id: s101
   name: "Thiago José da Silva"
   level: "MSc"

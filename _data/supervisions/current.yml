@@ -34,29 +34,15 @@
   start: "01/2024"
   end: "—"
 
-- id: s023
-  name: "Ana Beatriz Mantovanni Bett"
-  level: "MSc"
-  title: "A Registered Report Template for Software Engineering Controlled Experiments"
-  summary: "Mapping and analysis of open science practices adopted in secondary studies within Software Engineering."
-  start: "01/2024"
-  end: "—"
+# - id: s023
+#   name: "Ana Beatriz Mantovanni Bett"
+#   level: "MSc"
+#   title: "A Registered Report Template for Software Engineering Controlled Experiments"
+#   summary: "Mapping and analysis of open science practices adopted in secondary studies within Software Engineering."
+#   start: "01/2024"
+#   end: "—"
 
-- id: s024
-  name: "Mariana Santos de Jesus Alexandre"
-  level: "MSc"
-  title: "A Catalog of Key Performance Indicators in the Context of Software Development in Brazil"
-  summary: "Proposal and empirical evaluation of a conceptual model of KPIs tailored to Brazilian software development companies."
-  start: "01/2023"
-  end: "—"
 
-- id: s025
-  name: "Elaine Ignacio Moreira"
-  level: "MSc"
-  title: "A Reference Architecture for Mobile Forensics Tools"
-  summary: "Definition of conceptual requirements to support the design and evaluation of digital forensic tools."
-  start: "01/2021"
-  end: "—"
 
 # =========================
 # DOCTORAL STUDENTS (PhD)
@@ -93,6 +79,14 @@
   summary: "Design and evaluation of a framework to support teaching and learning of experimental Software Engineering."
   start: "01/2022"
   end: "—"
+
+- id: s033
+  name: "Silvio Rogério Felipe Gomes"
+  level: "PhD"
+  title: TBD
+  summary: TBD
+  start: "07/2026"
+  end: "—"  
 
 # =========================
 # UNDERGRADUATE (IC / IT / TCC)
