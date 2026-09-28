@@ -64,20 +64,20 @@
   start: "07/2026"
   end: "—" 
 
-- id: s021
-  name: "Vinicius Eduardo Ferreira"
-  level: "PhD"
-  title: "Cybersecurity Education in Higher Education Programs"
-  summary: "Study on education and training strategies to improve cybersecurity awareness in academic and professional contexts."
-  start: "03/2024"
-  end: "—"
-
 - id: s030
   name: "Cristiane Estevo da Silva (Co-supervised by Prof. Dr. André F. R. Cordeiro - UEM)"
   level: "PhD"
   title: "Sharing of Software Engineering Research Artifacts"
   summary: "Conceptual modeling to support sharing, reuse, and transparency of research artifacts in Software Engineering."
   start: "03/2025"
+  end: "—"
+
+- id: s021
+  name: "Vinicius Eduardo Ferreira"
+  level: "PhD"
+  title: "Cybersecurity Education in Higher Education Programs"
+  summary: "Study on education and training strategies to improve cybersecurity awareness in academic and professional contexts."
+  start: "03/2024"
   end: "—"
 
 - id: s031
