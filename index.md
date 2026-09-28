@@ -53,7 +53,7 @@ A central question guides my work: **How can we make scientific evidence more tr
       and traceability can support the assessment and
       reproducibility of forensic research.
     </p>
-    <p class="research-contribution-book">
+    <!-- <p class="research-contribution-book">
         <strong>Related book</strong><br>
         <a href="{{ 'https://edson-ao-junior.github.io/books/#digital-forensics' | relative_url }}">
             Controlled Experimentation of Digital Forensics
@@ -62,7 +62,7 @@ A central question guides my work: **How can we make scientific evidence more tr
         <span class="research-book-meta">
             Springer · 2026
         </span>
-    </p>
+    </p> -->
   </article>
 
   <article class="research-contribution">
@@ -74,7 +74,7 @@ A central question guides my work: **How can we make scientific evidence more tr
       software modeling with empirical evaluation to support
       systematic variability management.
     </p>
-    <p class="research-contribution-book">
+    <!-- <p class="research-contribution-book">
         <strong>Related book</strong><br>
         <a href="{{ 'https://edson-ao-junior.github.io/books/#smarty' | relative_url }}">
             UML-Based Software Product Line Engineering with SMarty
@@ -83,7 +83,7 @@ A central question guides my work: **How can we make scientific evidence more tr
         <span class="research-book-meta">
             Springer · 2023
         </span>
-    </p>
+    </p> -->
   </article>
 
 </div>
