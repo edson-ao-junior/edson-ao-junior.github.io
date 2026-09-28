@@ -67,3 +67,51 @@ A central question guides my work: **How can we make scientific evidence more tr
   </article>
 
 </div>
+
+
+<section aria-labelledby="current-research-agenda">
+
+  <h2 id="current-research-agenda">Current Research Agenda</h2>
+
+  <p>
+    My current research explores how scientific evidence can be
+    produced, assessed, and reused with greater transparency and
+    methodological rigor. Three questions guide this agenda:
+  </p>
+
+  <h3>
+    How can reproducibility be built into empirical studies
+    from the beginning?
+  </h3>
+
+  <p>
+    I investigate how experimental protocols, metadata, and
+    data management practices can support the research lifecycle,
+    from study planning to the sharing and reuse of results
+    and artifacts.
+  </p>
+
+  <h3>
+    How can software systems be designed to support
+    forensic readiness?
+  </h3>
+
+  <p>
+    I explore how software engineering practices can support
+    the availability, provenance, and traceability of digital
+    evidence, connecting forensic requirements with software
+    design, development, and evolution.
+  </p>
+
+  <h3>
+    What makes research artifacts understandable and reusable?
+  </h3>
+
+  <p>
+    I study how documentation, metadata, and sharing practices
+    can preserve the context needed to interpret, assess,
+    and reuse research artifacts in Software Engineering
+    and Digital Forensics.
+  </p>
+
+</section>
