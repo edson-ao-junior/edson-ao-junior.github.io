@@ -558,3 +558,14 @@
     grid-template-columns: 1fr;
   }
 }
+
+.research-contribution .research-contribution-book {
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid #dce3e8;
+}
+
+.research-contribution-book a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}

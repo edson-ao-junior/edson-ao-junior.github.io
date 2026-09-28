@@ -13,7 +13,7 @@ classes: books-page
 <hr>
 {% endunless %}
 
-<div class="book-entry">
+<div class="book-entry" id="{{ book.id }}">
 
   <div class="book-cover">
     <img src="{{ book.cover }}" alt="Cover of {{ book.title }}">
